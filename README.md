@@ -1,10 +1,10 @@
-# 💊 Pharmacy Management System
+#  Pharmacy Management System
 A MySQL-based database project that simulates how a real pharmacy manages doctors, patients, prescriptions, medicines, sales, and inventory.
 The goal of this project was to design a well-structured relational database and implement real-world database features such as triggers, stored procedures, constraints, and analytical reporting.
 
 ---
 
-## 🚀 What This Project Covers
+## What This Project Covers
 * Normalized schema design to minimize redundancy
 * Primary and foreign key relationships
 * Cascading updates and deletes
@@ -15,7 +15,7 @@ The goal of this project was to design a well-structured relational database and
 
 ---
 
-## 📊 Database Overview
+## Database Overview
 The system consists of 8 connected tables:
 * **Doctors** – doctor details and specializations
 * **Patients** – patient information and demographics
@@ -28,7 +28,7 @@ The system consists of 8 connected tables:
 
 ---
 
-## ⚡ Key Features
+## Key Features
 
 ### Inventory Automation
 A trigger automatically:
