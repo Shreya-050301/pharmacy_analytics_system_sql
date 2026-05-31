@@ -1,0 +1,201 @@
+supplier_id,supplier_name,medicine_id,contact_number,location
+SUP001,HealthPlus Pharma Ltd,M0799,9745601703,Kochi
+SUP002,LifeCare Suppliers Co,M0327,9101759001,Ghaziabad
+SUP003,Apollo Wholesalers India,M0597,9067949078,Faridabad
+SUP004,Zenith Pharma Corporation,M0920,9928551621,Bhubaneswar
+SUP005,Sun Pharma Distributors,M0038,9938967635,Nagpur
+SUP006,Cipla Wholesale Division,M0493,9673558960,Jodhpur
+SUP007,Dr Reddys Supply Chain,M0020,9072288341,Indore
+SUP008,Lupin Distributors India,M0371,9351390143,Chennai
+SUP009,Alkem Pharma Wholesale,M0334,9974274936,Visakhapatnam
+SUP010,Mankind Distributors Ltd,M0311,9357967148,Mumbai
+SUP011,Intas Pharma Suppliers,M0743,9300735658,Lucknow
+SUP012,Torrent Pharma Supply Co,M0628,9608252637,Vadodara
+SUP013,Glenmark Wholesale India,M0270,9128866911,Jaipur
+SUP014,Cadila Distributors Ltd,M0665,9232142526,Kolkata
+SUP015,Zydus Suppliers Network,M0813,9197892594,Visakhapatnam
+SUP016,Abbott Pharma Dist India,M0726,9574465325,Chandigarh
+SUP017,Pfizer Wholesale India,M0216,9441181851,Indore
+SUP018,Novartis Supply Chain,M0654,9673805203,Solan
+SUP019,GSK Distributors India,M0856,9193768418,Coimbatore
+SUP020,Sanofi Pharma India,M0314,9714622014,Raipur
+SUP021,Roche Distributors India,M0228,9333540112,Ghaziabad
+SUP022,AstraZeneca Supply Co,M0785,9283603087,Visakhapatnam
+SUP023,Johnson Supply Company,M0443,9477090676,Pune
+SUP024,Himalaya Drug Distributors,M0550,9837629507,Meerut
+SUP025,Dabur Med Supply Chain,M0483,9716217204,Solan
+SUP026,Emami Health Distributors,M0674,9886804186,Bhopal
+SUP027,Patanjali Pharma Dist,M0505,9032645649,Faridabad
+SUP028,Hamdard Distributors Co,M0105,9741991605,Bhopal
+SUP029,Baidyanath Supply Chain,M0345,9906490970,Bhopal
+SUP030,Charak Pharma Dist Ltd,M0881,9425197018,Hyderabad
+SUP031,Biocon Distributors Ltd,M0421,9589136829,Visakhapatnam
+SUP032,Serum Institute Dist,M0820,9707421531,Patna
+SUP033,Bharat Biotech Supply,M0578,9625260221,Faridabad
+SUP034,Panacea Biotec Dist,M0179,9908875480,Lucknow
+SUP035,Biological E Distributors,M0145,9933583843,Kolkata
+SUP036,Hester Biosciences Dist,M0744,9065735174,Ranchi
+SUP037,Galaxy Pharma Supply Co,M0003,9469351021,Nashik
+SUP038,Cosmos Pharmaceuticals,M0850,9012833195,Bhubaneswar
+SUP039,Apex Healthcare Dist,M0998,9897990359,Rajkot
+SUP040,Premier Pharma Dist Ltd,M0273,9177170305,Meerut
+SUP041,Medispec Pharma India,M0787,9870941246,Delhi
+SUP042,Nucleus Pharma Dist,M0989,9516483895,Indore
+SUP043,Regency Healthcare Dist,M0880,9376841876,Rajkot
+SUP044,Medinol Pharma Supply,M0997,9760064345,Rajkot
+SUP045,CurePlus Distributors,M0056,9317303324,Meerut
+SUP046,VitalMed Supply Chain,M0499,9757451048,Coimbatore
+SUP047,OmniPharma India Ltd,M0415,9809473181,Guwahati
+SUP048,BioShield Distributors,M0711,9605427079,Bhubaneswar
+SUP049,NovaCure Pharma Supply,M0247,9947611107,Amritsar
+SUP050,Medico Distributors Pvt Ltd,M0306,9647545657,Lucknow
+SUP051,HealthPlus Pharma Ltd,M0886,9897226934,Madurai
+SUP052,LifeCare Suppliers Co,M0116,9540390984,Kochi
+SUP053,Apollo Wholesalers India,M0355,9856066992,Meerut
+SUP054,Zenith Pharma Corporation,M0984,9138268709,Ghaziabad
+SUP055,Sun Pharma Distributors,M0369,9777957039,Meerut
+SUP056,Cipla Wholesale Division,M0608,9263779271,Kolkata
+SUP057,Dr Reddys Supply Chain,M0475,9073512896,Kanpur
+SUP058,Lupin Distributors India,M0478,9206824323,Nagpur
+SUP059,Alkem Pharma Wholesale,M0128,9302399344,Kochi
+SUP060,Mankind Distributors Ltd,M0053,9060694306,Guwahati
+SUP061,Intas Pharma Suppliers,M0680,9235786529,Nashik
+SUP062,Torrent Pharma Supply Co,M0049,9128537006,Vadodara
+SUP063,Glenmark Wholesale India,M0113,9488548753,Pune
+SUP064,Cadila Distributors Ltd,M0127,9198042554,Lucknow
+SUP065,Zydus Suppliers Network,M0342,9805376425,Ranchi
+SUP066,Abbott Pharma Dist India,M0659,9078688786,Mumbai
+SUP067,Pfizer Wholesale India,M0259,9203922131,Amritsar
+SUP068,Novartis Supply Chain,M0474,9019586639,Jaipur
+SUP069,GSK Distributors India,M0466,9879872873,Hyderabad
+SUP070,Sanofi Pharma India,M0958,9424956291,Amritsar
+SUP071,Roche Distributors India,M0235,9964416033,Kanpur
+SUP072,AstraZeneca Supply Co,M0979,9888070051,Bengaluru
+SUP073,Johnson Supply Company,M0295,9287451202,Surat
+SUP074,Himalaya Drug Distributors,M0630,9017545416,Coimbatore
+SUP075,Dabur Med Supply Chain,M0988,9879210466,Jaipur
+SUP076,Emami Health Distributors,M0952,9750152697,Vadodara
+SUP077,Patanjali Pharma Dist,M0940,9420360785,Agra
+SUP078,Hamdard Distributors Co,M0074,9833095872,Patna
+SUP079,Baidyanath Supply Chain,M0839,9836806014,Ranchi
+SUP080,Charak Pharma Dist Ltd,M0916,9792326714,Solan
+SUP081,Biocon Distributors Ltd,M0676,9581970150,Pune
+SUP082,Serum Institute Dist,M0269,9967972092,Guwahati
+SUP083,Bharat Biotech Supply,M0953,9192018285,Jaipur
+SUP084,Panacea Biotec Dist,M0977,9332970493,Amritsar
+SUP085,Biological E Distributors,M0496,9958291585,Chandigarh
+SUP086,Hester Biosciences Dist,M0137,9116397149,Surat
+SUP087,Galaxy Pharma Supply Co,M0178,9075741424,Rajkot
+SUP088,Cosmos Pharmaceuticals,M0361,9396262591,Raipur
+SUP089,Apex Healthcare Dist,M0375,9831249773,Faridabad
+SUP090,Premier Pharma Dist Ltd,M0480,9772443435,Nashik
+SUP091,Medispec Pharma India,M0513,9978729657,Ahmedabad
+SUP092,Nucleus Pharma Dist,M0972,9564380299,Chennai
+SUP093,Regency Healthcare Dist,M0411,9348042479,Meerut
+SUP094,Medinol Pharma Supply,M0261,9000940916,Guwahati
+SUP095,CurePlus Distributors,M0107,9737624266,Jaipur
+SUP096,VitalMed Supply Chain,M0229,9254920369,Bhopal
+SUP097,OmniPharma India Ltd,M0351,9091401527,Patna
+SUP098,BioShield Distributors,M0277,9117226414,Jodhpur
+SUP099,NovaCure Pharma Supply,M0664,9569001842,Bhopal
+SUP100,Medico Distributors Pvt Ltd,M0749,9359847422,Solan
+SUP101,HealthPlus Pharma Ltd,M0650,9359667715,Patna
+SUP102,LifeCare Suppliers Co,M0500,9902262473,Visakhapatnam
+SUP103,Apollo Wholesalers India,M0317,9500329909,Bengaluru
+SUP104,Zenith Pharma Corporation,M0098,9064761442,Ghaziabad
+SUP105,Sun Pharma Distributors,M0403,9873554042,Patna
+SUP106,Cipla Wholesale Division,M0547,9169792067,Bhubaneswar
+SUP107,Dr Reddys Supply Chain,M0337,9493934396,Mumbai
+SUP108,Lupin Distributors India,M0987,9453925287,Bhopal
+SUP109,Alkem Pharma Wholesale,M0384,9573381330,Amritsar
+SUP110,Mankind Distributors Ltd,M0479,9345330236,Nashik
+SUP111,Intas Pharma Suppliers,M0220,9122474098,Bhubaneswar
+SUP112,Torrent Pharma Supply Co,M0635,9372033505,Hyderabad
+SUP113,Glenmark Wholesale India,M0682,9602325107,Kolkata
+SUP114,Cadila Distributors Ltd,M0322,9555870940,Coimbatore
+SUP115,Zydus Suppliers Network,M0156,9224564119,Surat
+SUP116,Abbott Pharma Dist India,M0244,9551253807,Raipur
+SUP117,Pfizer Wholesale India,M0882,9191350534,Vadodara
+SUP118,Novartis Supply Chain,M0149,9197157557,Ahmedabad
+SUP119,GSK Distributors India,M0917,9663282463,Mumbai
+SUP120,Sanofi Pharma India,M0376,9616218563,Chandigarh
+SUP121,Roche Distributors India,M0382,9200761504,Lucknow
+SUP122,AstraZeneca Supply Co,M0358,9059868569,Ghaziabad
+SUP123,Johnson Supply Company,M0566,9714336080,Bengaluru
+SUP124,Himalaya Drug Distributors,M0019,9101461039,Lucknow
+SUP125,Dabur Med Supply Chain,M0855,9788881893,Bengaluru
+SUP126,Emami Health Distributors,M0794,9461638816,Madurai
+SUP127,Patanjali Pharma Dist,M0691,9785185690,Guwahati
+SUP128,Hamdard Distributors Co,M0768,9096568826,Amritsar
+SUP129,Baidyanath Supply Chain,M0962,9280072720,Ahmedabad
+SUP130,Charak Pharma Dist Ltd,M0805,9472373564,Mumbai
+SUP131,Biocon Distributors Ltd,M0857,9783083069,Ghaziabad
+SUP132,Serum Institute Dist,M0353,9899951454,Indore
+SUP133,Bharat Biotech Supply,M0498,9671467490,Faridabad
+SUP134,Panacea Biotec Dist,M0765,9688675185,Jodhpur
+SUP135,Biological E Distributors,M0613,9116456059,Bhubaneswar
+SUP136,Hester Biosciences Dist,M0309,9634318073,Lucknow
+SUP137,Galaxy Pharma Supply Co,M0853,9002585653,Patna
+SUP138,Cosmos Pharmaceuticals,M0899,9777303167,Amritsar
+SUP139,Apex Healthcare Dist,M0993,9192615487,Lucknow
+SUP140,Premier Pharma Dist Ltd,M0514,9012402545,Chandigarh
+SUP141,Medispec Pharma India,M0101,9005490809,Indore
+SUP142,Nucleus Pharma Dist,M0670,9976738872,Nashik
+SUP143,Regency Healthcare Dist,M0419,9616303438,Bhopal
+SUP144,Medinol Pharma Supply,M0413,9000914352,Nashik
+SUP145,CurePlus Distributors,M0046,9930741799,Meerut
+SUP146,VitalMed Supply Chain,M0160,9546628973,Guwahati
+SUP147,OmniPharma India Ltd,M0807,9189622527,Chandigarh
+SUP148,BioShield Distributors,M0544,9600223023,Agra
+SUP149,NovaCure Pharma Supply,M0792,9056771251,Bhubaneswar
+SUP150,Medico Distributors Pvt Ltd,M0919,9890418280,Ranchi
+SUP151,HealthPlus Pharma Ltd,M0644,9166608123,Jaipur
+SUP152,LifeCare Suppliers Co,M0656,9788447909,Kochi
+SUP153,Apollo Wholesalers India,M0121,9361527695,Agra
+SUP154,Zenith Pharma Corporation,M0796,9442022482,Vadodara
+SUP155,Sun Pharma Distributors,M0199,9886313737,Hyderabad
+SUP156,Cipla Wholesale Division,M0970,9450311802,Kochi
+SUP157,Dr Reddys Supply Chain,M0172,9691419396,Delhi
+SUP158,Lupin Distributors India,M0245,9610471891,Pune
+SUP159,Alkem Pharma Wholesale,M0219,9992569247,Meerut
+SUP160,Mankind Distributors Ltd,M0760,9883410341,Coimbatore
+SUP161,Intas Pharma Suppliers,M0754,9131811814,Delhi
+SUP162,Torrent Pharma Supply Co,M0671,9513251790,Nashik
+SUP163,Glenmark Wholesale India,M0806,9470856094,Chennai
+SUP164,Cadila Distributors Ltd,M0983,9671487831,Mumbai
+SUP165,Zydus Suppliers Network,M0310,9314564572,Lucknow
+SUP166,Abbott Pharma Dist India,M0455,9757940740,Bhopal
+SUP167,Pfizer Wholesale India,M0002,9374499987,Delhi
+SUP168,Novartis Supply Chain,M0308,9933913694,Kolkata
+SUP169,GSK Distributors India,M0877,9264106032,Faridabad
+SUP170,Sanofi Pharma India,M0477,9753180576,Patna
+SUP171,Roche Distributors India,M0973,9101089654,Meerut
+SUP172,AstraZeneca Supply Co,M0258,9125360640,Chennai
+SUP173,Johnson Supply Company,M0908,9474867948,Kochi
+SUP174,Himalaya Drug Distributors,M0827,9989484817,Delhi
+SUP175,Dabur Med Supply Chain,M0945,9361007701,Ghaziabad
+SUP176,Emami Health Distributors,M0456,9737594933,Bengaluru
+SUP177,Patanjali Pharma Dist,M0649,9781117196,Chennai
+SUP178,Hamdard Distributors Co,M0734,9049021444,Kolkata
+SUP179,Baidyanath Supply Chain,M0099,9559674333,Raipur
+SUP180,Charak Pharma Dist Ltd,M0907,9496552391,Amritsar
+SUP181,Biocon Distributors Ltd,M0748,9033530049,Kanpur
+SUP182,Serum Institute Dist,M0974,9665361977,Patna
+SUP183,Bharat Biotech Supply,M0686,9173946248,Jodhpur
+SUP184,Panacea Biotec Dist,M0605,9238586539,Lucknow
+SUP185,Biological E Distributors,M0501,9768714134,Nagpur
+SUP186,Hester Biosciences Dist,M0738,9179670605,Bhubaneswar
+SUP187,Galaxy Pharma Supply Co,M0918,9817357921,Ahmedabad
+SUP188,Cosmos Pharmaceuticals,M0252,9625069893,Bhubaneswar
+SUP189,Apex Healthcare Dist,M0298,9464639897,Delhi
+SUP190,Premier Pharma Dist Ltd,M0942,9145570393,Vadodara
+SUP191,Medispec Pharma India,M0570,9271866925,Chandigarh
+SUP192,Nucleus Pharma Dist,M0879,9290509260,Delhi
+SUP193,Regency Healthcare Dist,M0731,9011015616,Hyderabad
+SUP194,Medinol Pharma Supply,M0328,9973844981,Jaipur
+SUP195,CurePlus Distributors,M0586,9130088238,Nashik
+SUP196,VitalMed Supply Chain,M0349,9699086723,Indore
+SUP197,OmniPharma India Ltd,M0043,9104481773,Meerut
+SUP198,BioShield Distributors,M0531,9556192218,Jaipur
+SUP199,NovaCure Pharma Supply,M0730,9206318641,Amritsar
+SUP200,Medico Distributors Pvt Ltd,M0222,9613023641,Faridabad

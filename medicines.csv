@@ -1,0 +1,1001 @@
+medicine_id,medicine_name,category,price_per_unit,stock_quantity,expiry_date
+M0001,Paracetamol,Analgesic,32.15,25,2026-01-31
+M0002,Amoxicillin,Antibiotic,12.62,142,2024-02-24
+M0003,Cetirizine,Antihistamine,34.0,558,2023-12-23
+M0004,Metformin,Antidiabetic,29.73,32,2023-05-03
+M0005,Ibuprofen,Analgesic,5.14,238,2028-08-31
+M0006,Azithromycin,Antibiotic,30.3,574,2025-03-25
+M0007,Vitamin C,Supplement,35.94,558,2027-09-15
+M0008,Aspirin,Analgesic,11.41,284,2023-01-27
+M0009,Insulin,Antidiabetic,38.06,163,2027-09-28
+M0010,Montelukast,Antiallergy,17.34,159,2025-05-31
+M0011,Doxycycline,Antibiotic,47.88,344,2024-02-23
+M0012,Ciprofloxacin,Antibiotic,5.09,99,2027-01-10
+M0013,Ranitidine,Antacid,42.45,270,2023-06-27
+M0014,Omeprazole,Antacid,36.62,549,2024-05-26
+M0015,Atorvastatin,Statin,48.67,387,2023-11-19
+M0016,Losartan,Antihypertensive,27.83,370,2029-06-22
+M0017,Amlodipine,Antihypertensive,10.02,71,2023-07-07
+M0018,Metoprolol,Antihypertensive,33.23,296,2023-11-23
+M0019,Levothyroxine,Supplement,42.84,103,2027-04-06
+M0020,Prednisone,Analgesic,14.26,373,2024-10-28
+M0021,Gabapentin,Analgesic,18.82,214,2025-12-29
+M0022,Sertraline,Antidepressant,35.24,73,2029-10-31
+M0023,Fluoxetine,Antidepressant,31.93,546,2025-09-29
+M0024,Diazepam,Antidepressant,8.59,388,2026-01-10
+M0025,Alprazolam,Antidepressant,49.48,570,2025-06-18
+M0026,Clonazepam,Antidepressant,34.39,57,2025-07-27
+M0027,Zolpidem,Antidepressant,41.18,323,2027-07-02
+M0028,Tramadol,Analgesic,13.75,216,2029-05-12
+M0029,Furosemide,Antihypertensive,43.88,322,2025-05-20
+M0030,Spironolactone,Antihypertensive,32.94,405,2028-02-23
+M0031,Hydrochlorothiazide,Antihypertensive,7.57,142,2025-10-07
+M0032,Warfarin,Antibiotic,37.38,551,2025-12-12
+M0033,Clopidogrel,Analgesic,37.48,438,2029-07-18
+M0034,Sitagliptin,Antidiabetic,20.27,224,2024-07-20
+M0035,Glipizide,Antidiabetic,25.72,93,2023-07-12
+M0036,Glimepiride,Antidiabetic,43.12,156,2024-10-17
+M0037,Pioglitazone,Antidiabetic,39.71,432,2029-09-08
+M0038,Empagliflozin,Antidiabetic,3.64,390,2029-09-06
+M0039,Dapagliflozin,Antidiabetic,49.81,541,2025-10-26
+M0040,Canagliflozin,Antidiabetic,48.57,11,2024-04-14
+M0041,Liraglutide,Antidiabetic,34.24,549,2025-12-28
+M0042,Acarbose,Antidiabetic,38.55,348,2024-04-01
+M0043,Ceftriaxone,Antibiotic,15.03,161,2028-02-02
+M0044,Cefixime,Antibiotic,0.66,269,2028-08-12
+M0045,Cefuroxime,Antibiotic,38.22,519,2024-03-11
+M0046,Amoxiclav,Antibiotic,43.59,305,2028-09-10
+M0047,Meropenem,Antibiotic,30.64,156,2027-03-12
+M0048,Vancomycin,Antibiotic,38.24,552,2028-12-12
+M0049,Linezolid,Antibiotic,45.97,331,2028-06-24
+M0050,Gentamicin,Antibiotic,1.46,371,2026-06-13
+M0051,Clindamycin,Antibiotic,12.35,246,2029-05-12
+M0052,Metronidazole,Antibiotic,47.37,87,2028-06-13
+M0053,Fluconazole,Antifungal,40.89,545,2024-05-30
+M0054,Itraconazole,Antifungal,6.86,486,2029-03-01
+M0055,Voriconazole,Antifungal,8.67,540,2029-10-20
+M0056,Acyclovir,Antiviral,21.45,216,2029-01-17
+M0057,Valacyclovir,Antiviral,37.89,205,2026-06-30
+M0058,Oseltamivir,Antiviral,20.25,382,2027-11-30
+M0059,Tenofovir,Antiviral,45.03,462,2024-05-10
+M0060,Lamivudine,Antiviral,12.77,65,2026-10-16
+M0061,Salbutamol,Bronchodilator,1.54,567,2025-07-31
+M0062,Ipratropium,Bronchodilator,29.63,7,2023-10-18
+M0063,Theophylline,Bronchodilator,35.54,60,2025-07-26
+M0064,Budesonide,Bronchodilator,3.84,32,2026-09-15
+M0065,Formoterol,Bronchodilator,4.01,243,2026-02-14
+M0066,Salmeterol,Bronchodilator,33.61,219,2029-01-17
+M0067,Lactulose,Laxative,7.05,584,2029-06-18
+M0068,Bisacodyl,Laxative,23.9,484,2027-07-26
+M0069,Senna,Laxative,9.93,99,2027-11-01
+M0070,Psyllium,Laxative,18.04,420,2028-03-27
+M0071,Domperidone,Antacid,43.26,55,2024-02-08
+M0072,Pantoprazole,Antacid,3.5,347,2024-03-23
+M0073,Esomeprazole,Antacid,12.81,194,2029-01-05
+M0074,Sucralfate,Antacid,22.71,432,2025-01-21
+M0075,Ondansetron,Antipyretic,14.29,255,2023-11-05
+M0076,Promethazine,Antihistamine,22.43,563,2024-02-06
+M0077,Loratadine,Antihistamine,3.0,553,2023-03-02
+M0078,Fexofenadine,Antihistamine,48.47,242,2024-11-12
+M0079,Desloratadine,Antihistamine,20.62,492,2025-05-25
+M0080,Levocetirizine,Antihistamine,43.3,60,2024-11-05
+M0081,Chlorpheniramine,Antihistamine,19.26,399,2025-12-22
+M0082,Diphenhydramine,Antihistamine,46.36,465,2026-03-14
+M0083,Hydroxyzine,Antihistamine,21.44,569,2028-06-16
+M0084,Azelastine,Antihistamine,8.16,303,2025-06-10
+M0085,Vitamin D3,Supplement,48.45,593,2029-01-29
+M0086,Vitamin B12,Supplement,3.52,321,2023-08-23
+M0087,Vitamin B6,Supplement,2.98,488,2028-08-21
+M0088,Folic Acid,Supplement,46.01,543,2024-10-06
+M0089,Iron Sulfate,Supplement,3.32,520,2023-11-25
+M0090,Calcium Carbonate,Supplement,42.64,70,2029-09-03
+M0091,Zinc Sulfate,Supplement,3.86,240,2027-07-12
+M0092,Magnesium Oxide,Supplement,6.43,583,2025-10-05
+M0093,Omega 3,Supplement,29.16,40,2029-12-11
+M0094,Niacin,Supplement,4.56,597,2029-05-04
+M0095,Riboflavin,Supplement,26.38,267,2025-04-16
+M0096,Thiamine,Supplement,33.65,321,2025-09-04
+M0097,Rosuvastatin,Statin,13.65,134,2026-05-13
+M0098,Simvastatin,Statin,23.13,74,2023-02-08
+M0099,Pravastatin,Statin,23.19,576,2024-02-14
+M0100,Fluvastatin,Statin,4.13,218,2028-09-03
+M0101,Pitavastatin,Statin,13.63,357,2023-10-09
+M0102,Lovastatin,Statin,44.02,378,2026-03-13
+M0103,Gabapentin 250mg Patch,Analgesic,35.33,541,2023-02-02
+M0104,Vitamin B12 500mg Cream,Supplement,46.62,106,2024-07-04
+M0105,Sitagliptin 20mg Capsule,Antidiabetic,37.25,159,2026-01-20
+M0106,Pioglitazone 1g Injection,Antidiabetic,36.02,208,2025-12-17
+M0107,Formoterol 250mg Cream,Bronchodilator,45.31,52,2024-01-14
+M0108,Diphenhydramine 200mg Cream,Antihistamine,2.68,341,2024-06-19
+M0109,Diphenhydramine 50mg Syrup,Antihistamine,37.19,564,2027-10-18
+M0110,Pantoprazole 10mg Capsule,Antacid,4.22,152,2029-02-12
+M0111,Ibuprofen 100mg Suspension,Analgesic,27.85,440,2024-06-06
+M0112,Azithromycin 50mg Drops,Antibiotic,45.0,40,2027-01-05
+M0113,Zolpidem 40mg Capsule,Antidepressant,18.01,573,2027-07-23
+M0114,Levocetirizine 25mg Injection,Antihistamine,43.3,181,2027-08-16
+M0115,Metformin 25mg Drops,Antidiabetic,39.23,421,2025-10-13
+M0116,Glipizide 25mg Capsule,Antidiabetic,19.44,39,2028-04-11
+M0117,Furosemide 40mg Spray,Antihypertensive,17.81,233,2025-07-02
+M0118,Metformin 40mg Gel,Antidiabetic,16.75,71,2026-02-17
+M0119,Cefuroxime 500mg Gel,Antibiotic,34.14,549,2026-09-18
+M0120,Metformin 20mg Cream,Antidiabetic,9.34,271,2023-06-06
+M0121,Omeprazole 1g Gel,Antacid,17.61,321,2027-11-23
+M0122,Fexofenadine 500mg Capsule,Antihistamine,19.57,590,2025-02-17
+M0123,Clopidogrel 10mg Gel,Analgesic,0.58,551,2025-03-18
+M0124,Meropenem 200mg Capsule,Antibiotic,47.47,338,2029-12-27
+M0125,Liraglutide 20mg Cream,Antidiabetic,25.6,418,2026-08-29
+M0126,Metronidazole 50mg Patch,Antibiotic,6.8,430,2027-04-02
+M0127,Vitamin B6 25mg Suspension,Supplement,28.67,415,2029-02-22
+M0128,Paracetamol 50mg Cream,Analgesic,10.9,593,2029-10-20
+M0129,Azelastine 100mg Spray,Antihistamine,22.37,218,2028-09-24
+M0130,Salbutamol 25mg Capsule,Bronchodilator,14.55,343,2024-01-18
+M0131,Rosuvastatin 40mg Cream,Statin,11.62,203,2024-08-26
+M0132,Metformin 10mg Injection,Antidiabetic,49.2,74,2028-02-09
+M0133,Itraconazole 1g Injection,Antifungal,36.06,393,2028-07-17
+M0134,Metronidazole 40mg Syrup,Antibiotic,32.97,5,2024-03-12
+M0135,Fluvastatin 200mg Injection,Statin,9.21,530,2028-03-17
+M0136,Vitamin C 500mg Injection,Supplement,45.91,124,2028-02-13
+M0137,Metoprolol 250mg Patch,Antihypertensive,49.4,324,2027-12-18
+M0138,Desloratadine 500mg Gel,Antihistamine,41.61,561,2028-01-01
+M0139,Gabapentin 250mg Spray,Analgesic,13.33,253,2026-02-09
+M0140,Pravastatin 500mg Spray,Statin,31.52,281,2027-12-07
+M0141,Montelukast 50mg Injection,Antiallergy,13.95,327,2029-01-21
+M0142,Doxycycline 25mg Syrup,Antibiotic,11.95,156,2025-05-26
+M0143,Insulin 200mg Gel,Antidiabetic,16.88,477,2027-08-31
+M0144,Aspirin 40mg Gel,Analgesic,19.78,598,2023-03-22
+M0145,Simvastatin 1g Gel,Statin,24.11,360,2026-05-08
+M0146,Rosuvastatin 200mg Gel,Statin,27.14,559,2029-10-06
+M0147,Furosemide 250mg Injection,Antihypertensive,14.01,497,2023-04-29
+M0148,Gentamicin 100mg Gel,Antibiotic,36.35,478,2024-06-06
+M0149,Levocetirizine 500mg Tablet,Antihistamine,45.39,577,2023-04-22
+M0150,Doxycycline 200mg Syrup,Antibiotic,43.41,186,2023-07-25
+M0151,Sitagliptin 200mg Drops,Antidiabetic,10.98,334,2026-10-14
+M0152,Simvastatin 200mg Cream,Statin,37.72,431,2025-10-30
+M0153,Doxycycline 250mg Tablet,Antibiotic,37.58,53,2026-12-04
+M0154,Furosemide 20mg Tablet,Antihypertensive,37.83,253,2025-03-27
+M0155,Cetirizine 1g Syrup,Antihistamine,12.31,484,2024-04-13
+M0156,Esomeprazole 40mg Spray,Antacid,35.12,377,2024-11-18
+M0157,Fexofenadine 1g Capsule,Antihistamine,39.0,167,2026-06-28
+M0158,Omeprazole 1g Tablet,Antacid,46.48,589,2027-03-18
+M0159,Clindamycin 40mg Capsule,Antibiotic,29.81,248,2024-02-22
+M0160,Calcium Carbonate 50mg Suspension,Supplement,40.37,579,2023-06-18
+M0161,Vitamin D3 100mg Capsule,Supplement,25.55,349,2023-02-21
+M0162,Itraconazole 250mg Capsule,Antifungal,21.96,370,2028-02-27
+M0163,Zinc Sulfate 25mg Gel,Supplement,9.22,534,2026-01-11
+M0164,Desloratadine 500mg Spray,Antihistamine,23.51,274,2026-08-13
+M0165,Warfarin 20mg Cream,Antibiotic,44.14,249,2028-03-18
+M0166,Esomeprazole 1g Gel,Antacid,17.15,506,2026-08-24
+M0167,Diazepam 250mg Injection,Antidepressant,18.06,264,2026-10-26
+M0168,Glimepiride 1g Cream,Antidiabetic,28.01,529,2025-02-21
+M0169,Doxycycline 40mg Gel,Antibiotic,24.68,246,2028-05-04
+M0170,Hydroxyzine 250mg Spray,Antihistamine,39.75,95,2026-04-20
+M0171,Furosemide 200mg Injection,Antihypertensive,15.66,595,2027-02-20
+M0172,Salbutamol 500mg Patch,Bronchodilator,17.52,563,2026-09-16
+M0173,Amoxiclav 250mg Cream,Antibiotic,15.68,236,2024-05-09
+M0174,Omega 3 40mg Drops,Supplement,6.42,548,2025-01-28
+M0175,Alprazolam 40mg Spray,Antidepressant,14.19,537,2029-09-10
+M0176,Pioglitazone 20mg Injection,Antidiabetic,15.16,369,2025-01-04
+M0177,Dapagliflozin 10mg Patch,Antidiabetic,6.77,46,2023-08-12
+M0178,Domperidone 50mg Syrup,Antacid,32.07,502,2024-02-25
+M0179,Amoxicillin 1g Cream,Antibiotic,23.74,451,2026-10-27
+M0180,Diazepam 10mg Cream,Antidepressant,47.08,489,2024-04-12
+M0181,Insulin 200mg Spray,Antidiabetic,4.17,54,2024-09-13
+M0182,Prednisone 1g Cream,Analgesic,4.72,254,2024-04-30
+M0183,Pantoprazole 200mg Suspension,Antacid,30.01,231,2028-11-10
+M0184,Linezolid 250mg Spray,Antibiotic,15.22,439,2026-06-04
+M0185,Esomeprazole 1g Tablet,Antacid,30.68,101,2025-05-01
+M0186,Chlorpheniramine 40mg Cream,Antihistamine,33.19,160,2025-09-09
+M0187,Fluoxetine 500mg Capsule,Antidepressant,8.25,418,2028-01-20
+M0188,Iron Sulfate 1g Spray,Supplement,14.92,237,2026-03-26
+M0189,Zinc Sulfate 50mg Spray,Supplement,4.02,239,2025-12-19
+M0190,Pitavastatin 1g Injection,Statin,21.54,557,2025-07-09
+M0191,Hydroxyzine 25mg Cream,Antihistamine,41.42,73,2023-09-02
+M0192,Sertraline 50mg Suspension,Antidepressant,37.57,582,2026-03-28
+M0193,Valacyclovir 20mg Spray,Antiviral,34.59,412,2026-01-20
+M0194,Formoterol 500mg Spray,Bronchodilator,22.17,40,2027-11-05
+M0195,Riboflavin 100mg Suspension,Supplement,12.89,93,2025-07-26
+M0196,Vitamin B6 1g Suspension,Supplement,47.56,275,2029-06-18
+M0197,Azithromycin 25mg Spray,Antibiotic,26.19,452,2026-02-13
+M0198,Diazepam 1g Gel,Antidepressant,31.92,503,2024-01-09
+M0199,Salbutamol 100mg Gel,Bronchodilator,17.0,107,2024-10-20
+M0200,Ceftriaxone 200mg Spray,Antibiotic,14.77,410,2029-03-03
+M0201,Ibuprofen 250mg Capsule,Analgesic,16.07,331,2024-04-19
+M0202,Pravastatin 200mg Patch,Statin,41.33,1,2029-01-31
+M0203,Lamivudine 200mg Tablet,Antiviral,9.79,370,2029-12-25
+M0204,Rosuvastatin 250mg Spray,Statin,38.12,208,2025-12-29
+M0205,Domperidone 25mg Cream,Antacid,22.19,496,2024-05-12
+M0206,Metformin 1g Injection,Antidiabetic,35.63,318,2029-03-06
+M0207,Amoxicillin 500mg Gel,Antibiotic,5.11,116,2028-03-05
+M0208,Losartan 25mg Spray,Antihypertensive,46.67,298,2028-09-15
+M0209,Zinc Sulfate 50mg Gel,Supplement,41.82,483,2025-09-25
+M0210,Tenofovir 500mg Syrup,Antiviral,19.49,520,2024-07-13
+M0211,Insulin 50mg Gel,Antidiabetic,17.32,519,2025-12-30
+M0212,Promethazine 1g Spray,Antihistamine,43.33,457,2029-01-15
+M0213,Ipratropium 100mg Drops,Bronchodilator,27.82,556,2027-03-26
+M0214,Tenofovir 100mg Injection,Antiviral,49.05,244,2029-05-31
+M0215,Gentamicin 40mg Gel,Antibiotic,2.66,484,2027-04-11
+M0216,Gentamicin 25mg Spray,Antibiotic,48.26,129,2028-08-19
+M0217,Promethazine 100mg Capsule,Antihistamine,43.77,450,2024-02-13
+M0218,Bisacodyl 250mg Tablet,Laxative,36.26,419,2024-09-24
+M0219,Montelukast 250mg Cream,Antiallergy,17.26,407,2023-11-25
+M0220,Ceftriaxone 500mg Gel,Antibiotic,47.73,499,2029-01-25
+M0221,Ibuprofen 1g Capsule,Analgesic,12.12,294,2025-07-20
+M0222,Thiamine 20mg Gel,Supplement,48.93,102,2027-12-23
+M0223,Sertraline 50mg Tablet,Antidepressant,2.78,57,2026-04-16
+M0224,Amoxiclav 100mg Gel,Antibiotic,7.71,543,2027-08-15
+M0225,Esomeprazole 25mg Syrup,Antacid,9.17,391,2029-12-13
+M0226,Folic Acid 40mg Spray,Supplement,45.69,146,2025-08-09
+M0227,Lamivudine 50mg Spray,Antiviral,13.14,9,2028-03-20
+M0228,Pioglitazone 500mg Syrup,Antidiabetic,4.16,353,2029-08-03
+M0229,Dapagliflozin 200mg Cream,Antidiabetic,23.11,309,2025-03-26
+M0230,Gentamicin 250mg Capsule,Antibiotic,12.24,585,2027-01-10
+M0231,Sucralfate 50mg Cream,Antacid,1.59,405,2026-01-29
+M0232,Amoxicillin 1g Tablet,Antibiotic,45.58,508,2026-03-18
+M0233,Fluvastatin 40mg Suspension,Statin,40.2,224,2025-02-17
+M0234,Levocetirizine 50mg Syrup,Antihistamine,31.6,40,2026-06-19
+M0235,Pitavastatin 250mg Tablet,Statin,29.19,134,2024-01-05
+M0236,Empagliflozin 100mg Gel,Antidiabetic,9.19,135,2029-01-18
+M0237,Meropenem 500mg Patch,Antibiotic,45.72,168,2025-11-18
+M0238,Ipratropium 50mg Drops,Bronchodilator,40.31,479,2023-11-05
+M0239,Levothyroxine 40mg Gel,Supplement,48.38,570,2027-02-07
+M0240,Ciprofloxacin 200mg Tablet,Antibiotic,13.59,126,2028-02-06
+M0241,Vancomycin 50mg Suspension,Antibiotic,19.36,380,2024-03-19
+M0242,Vitamin B6 40mg Spray,Supplement,1.74,574,2026-09-05
+M0243,Desloratadine 40mg Capsule,Antihistamine,31.95,475,2026-05-22
+M0244,Azelastine 200mg Capsule,Antihistamine,7.42,38,2026-05-31
+M0245,Budesonide 20mg Capsule,Bronchodilator,12.12,550,2024-07-09
+M0246,Gentamicin 250mg Drops,Antibiotic,33.69,553,2027-09-13
+M0247,Promethazine 25mg Gel,Antihistamine,32.92,501,2029-11-26
+M0248,Fluconazole 50mg Tablet,Antifungal,34.67,222,2027-12-22
+M0249,Valacyclovir 40mg Drops,Antiviral,5.42,376,2029-02-08
+M0250,Hydroxyzine 100mg Tablet,Antihistamine,20.21,194,2024-05-15
+M0251,Tenofovir 20mg Injection,Antiviral,32.26,21,2023-07-27
+M0252,Pitavastatin 100mg Injection,Statin,49.45,578,2025-04-20
+M0253,Insulin 500mg Injection,Antidiabetic,29.53,238,2026-09-07
+M0254,Fluvastatin 25mg Suspension,Statin,0.64,148,2024-06-16
+M0255,Psyllium 50mg Syrup,Laxative,5.94,26,2024-06-23
+M0256,Amoxicillin 100mg Injection,Antibiotic,29.65,16,2024-12-14
+M0257,Sitagliptin 10mg Syrup,Antidiabetic,37.22,538,2024-04-10
+M0258,Thiamine 20mg Spray,Supplement,22.69,370,2028-10-03
+M0259,Promethazine 20mg Spray,Antihistamine,25.44,44,2028-11-05
+M0260,Dapagliflozin 250mg Tablet,Antidiabetic,3.51,490,2027-07-04
+M0261,Voriconazole 20mg Spray,Antifungal,35.76,454,2023-10-29
+M0262,Doxycycline 100mg Suspension,Antibiotic,7.84,129,2026-01-31
+M0263,Levocetirizine 1g Patch,Antihistamine,35.75,390,2029-09-12
+M0264,Bisacodyl 50mg Spray,Laxative,25.52,440,2024-02-11
+M0265,Lovastatin 20mg Patch,Statin,36.18,220,2027-10-28
+M0266,Oseltamivir 40mg Gel,Antiviral,17.28,464,2027-06-22
+M0267,Itraconazole 20mg Drops,Antifungal,21.62,261,2027-03-14
+M0268,Prednisone 250mg Capsule,Analgesic,5.02,87,2024-01-17
+M0269,Acyclovir 20mg Drops,Antiviral,40.68,569,2023-09-03
+M0270,Promethazine 500mg Patch,Antihistamine,16.82,125,2027-08-10
+M0271,Amoxiclav 200mg Tablet,Antibiotic,48.44,319,2026-12-11
+M0272,Omeprazole 1g Patch,Antacid,11.03,493,2025-07-07
+M0273,Omeprazole 100mg Patch,Antacid,18.69,285,2029-06-09
+M0274,Furosemide 200mg Patch,Antihypertensive,48.74,570,2023-04-18
+M0275,Fexofenadine 50mg Tablet,Antihistamine,9.43,316,2026-10-23
+M0276,Cefuroxime 10mg Syrup,Antibiotic,43.56,579,2027-06-30
+M0277,Insulin 25mg Tablet,Antidiabetic,5.04,543,2025-05-31
+M0278,Linezolid 200mg Spray,Antibiotic,17.37,378,2026-06-30
+M0279,Omega 3 100mg Suspension,Supplement,30.01,53,2024-09-29
+M0280,Gabapentin 1g Tablet,Analgesic,33.86,278,2027-12-20
+M0281,Vitamin D3 200mg Spray,Supplement,30.55,424,2026-01-23
+M0282,Tramadol 500mg Capsule,Analgesic,17.59,113,2026-03-06
+M0283,Vitamin B6 1g Spray,Supplement,26.58,315,2023-07-06
+M0284,Furosemide 200mg Suspension,Antihypertensive,3.21,209,2026-05-19
+M0285,Tramadol 25mg Cream,Analgesic,14.83,122,2023-02-01
+M0286,Budesonide 200mg Syrup,Bronchodilator,6.89,545,2025-07-31
+M0287,Formoterol 500mg Drops,Bronchodilator,4.07,43,2027-11-22
+M0288,Cetirizine 250mg Capsule,Antihistamine,43.17,589,2027-10-25
+M0289,Sucralfate 200mg Gel,Antacid,14.83,414,2023-03-27
+M0290,Acarbose 25mg Suspension,Antidiabetic,23.27,370,2023-12-27
+M0291,Acyclovir 20mg Injection,Antiviral,22.07,410,2028-11-16
+M0292,Doxycycline 200mg Cream,Antibiotic,37.42,226,2026-09-26
+M0293,Fluvastatin 25mg Capsule,Statin,25.77,116,2028-12-13
+M0294,Salmeterol 40mg Drops,Bronchodilator,17.88,151,2025-08-25
+M0295,Omeprazole 25mg Cream,Antacid,10.26,156,2023-11-05
+M0296,Fluoxetine 250mg Spray,Antidepressant,37.85,593,2028-01-13
+M0297,Folic Acid 1g Suspension,Supplement,16.5,323,2024-09-10
+M0298,Valacyclovir 50mg Cream,Antiviral,29.78,360,2028-09-09
+M0299,Montelukast 50mg Spray,Antiallergy,22.87,58,2027-02-19
+M0300,Pioglitazone 20mg Capsule,Antidiabetic,30.94,519,2027-04-24
+M0301,Lamivudine 1g Patch,Antiviral,47.73,42,2028-01-17
+M0302,Sucralfate 40mg Drops,Antacid,30.45,513,2024-09-09
+M0303,Aspirin 250mg Capsule,Analgesic,40.64,351,2023-12-12
+M0304,Formoterol 25mg Tablet,Bronchodilator,12.76,448,2027-12-05
+M0305,Bisacodyl 500mg Suspension,Laxative,8.36,381,2026-03-04
+M0306,Gentamicin 200mg Drops,Antibiotic,34.11,53,2026-10-02
+M0307,Insulin 100mg Capsule,Antidiabetic,28.12,395,2026-03-09
+M0308,Clopidogrel 1g Syrup,Analgesic,17.0,596,2024-08-02
+M0309,Cefuroxime 50mg Gel,Antibiotic,6.88,86,2026-06-22
+M0310,Pantoprazole 200mg Drops,Antacid,40.75,539,2024-01-18
+M0311,Hydroxyzine 200mg Patch,Antihistamine,18.41,371,2026-06-19
+M0312,Diazepam 40mg Drops,Antidepressant,47.41,497,2025-02-25
+M0313,Furosemide 25mg Syrup,Antihypertensive,4.32,103,2028-09-10
+M0314,Pravastatin 500mg Patch,Statin,2.37,344,2029-12-06
+M0315,Amlodipine 1g Gel,Antihypertensive,8.14,185,2024-11-09
+M0316,Omega 3 250mg Tablet,Supplement,20.84,243,2027-12-25
+M0317,Desloratadine 50mg Spray,Antihistamine,12.08,244,2026-06-21
+M0318,Pitavastatin 250mg Injection,Statin,18.71,584,2027-12-10
+M0319,Lamivudine 50mg Gel,Antiviral,25.39,428,2024-10-25
+M0320,Clonazepam 1g Syrup,Antidepressant,43.71,53,2028-05-22
+M0321,Vancomycin 500mg Capsule,Antibiotic,35.71,528,2024-05-25
+M0322,Pioglitazone 20mg Syrup,Antidiabetic,14.0,525,2024-08-26
+M0323,Oseltamivir 100mg Tablet,Antiviral,21.04,405,2028-08-18
+M0324,Vancomycin 40mg Gel,Antibiotic,49.73,383,2025-07-08
+M0325,Metformin 100mg Capsule,Antidiabetic,42.04,343,2024-08-21
+M0326,Metoprolol 10mg Cream,Antihypertensive,45.91,483,2024-07-22
+M0327,Simvastatin 250mg Spray,Statin,30.96,81,2023-03-19
+M0328,Clopidogrel 40mg Syrup,Analgesic,27.67,540,2027-09-30
+M0329,Atorvastatin 50mg Injection,Statin,15.41,48,2025-09-03
+M0330,Itraconazole 1g Spray,Antifungal,3.61,511,2029-09-10
+M0331,Senna 10mg Patch,Laxative,28.96,147,2026-04-08
+M0332,Voriconazole 10mg Suspension,Antifungal,17.96,584,2027-09-03
+M0333,Diazepam 20mg Patch,Antidepressant,48.75,69,2028-11-24
+M0334,Psyllium 500mg Patch,Laxative,27.93,399,2028-04-09
+M0335,Azithromycin 200mg Drops,Antibiotic,13.06,16,2027-01-02
+M0336,Pitavastatin 20mg Drops,Statin,12.44,106,2029-07-11
+M0337,Riboflavin 100mg Syrup,Supplement,2.69,559,2026-10-18
+M0338,Hydroxyzine 25mg Spray,Antihistamine,49.05,490,2025-01-16
+M0339,Metoprolol 20mg Spray,Antihypertensive,2.33,206,2023-06-29
+M0340,Lovastatin 40mg Tablet,Statin,16.12,317,2028-10-12
+M0341,Clindamycin 500mg Spray,Antibiotic,13.04,195,2026-03-17
+M0342,Amoxiclav 10mg Drops,Antibiotic,14.02,376,2027-11-25
+M0343,Metronidazole 250mg Gel,Antibiotic,17.28,191,2028-07-25
+M0344,Iron Sulfate 250mg Drops,Supplement,46.25,531,2025-12-28
+M0345,Doxycycline 200mg Capsule,Antibiotic,21.82,184,2029-02-12
+M0346,Empagliflozin 100mg Capsule,Antidiabetic,4.46,302,2026-06-09
+M0347,Oseltamivir 1g Gel,Antiviral,8.75,454,2026-12-10
+M0348,Oseltamivir 10mg Drops,Antiviral,30.94,445,2026-01-29
+M0349,Diphenhydramine 10mg Capsule,Antihistamine,33.72,415,2027-01-28
+M0350,Salmeterol 25mg Tablet,Bronchodilator,7.57,448,2023-05-23
+M0351,Amlodipine 20mg Injection,Antihypertensive,39.04,375,2027-01-23
+M0352,Gentamicin 1g Tablet,Antibiotic,30.45,460,2027-02-28
+M0353,Vancomycin 250mg Capsule,Antibiotic,28.91,542,2027-02-12
+M0354,Clindamycin 100mg Cream,Antibiotic,12.86,116,2023-04-17
+M0355,Riboflavin 25mg Spray,Supplement,26.13,575,2024-04-27
+M0356,Sitagliptin 50mg Spray,Antidiabetic,11.12,292,2028-07-04
+M0357,Clonazepam 20mg Syrup,Antidepressant,42.71,462,2024-12-08
+M0358,Magnesium Oxide 250mg Capsule,Supplement,40.62,327,2026-11-24
+M0359,Zinc Sulfate 20mg Patch,Supplement,27.34,307,2024-10-07
+M0360,Magnesium Oxide 25mg Drops,Supplement,25.68,124,2025-04-03
+M0361,Lovastatin 25mg Injection,Statin,39.62,26,2027-01-18
+M0362,Domperidone 1g Drops,Antacid,23.64,564,2024-06-15
+M0363,Desloratadine 20mg Capsule,Antihistamine,15.81,490,2028-11-23
+M0364,Fluconazole 200mg Suspension,Antifungal,4.15,324,2023-10-31
+M0365,Oseltamivir 250mg Patch,Antiviral,17.55,564,2029-08-04
+M0366,Diazepam 25mg Gel,Antidepressant,25.39,56,2024-05-23
+M0367,Lactulose 25mg Cream,Laxative,8.65,330,2025-07-12
+M0368,Cefuroxime 500mg Cream,Antibiotic,42.37,256,2025-03-15
+M0369,Diphenhydramine 500mg Cream,Antihistamine,6.7,310,2029-11-21
+M0370,Senna 20mg Patch,Laxative,32.23,594,2024-09-23
+M0371,Sertraline 1g Suspension,Antidepressant,17.21,577,2023-06-18
+M0372,Metformin 20mg Tablet,Antidiabetic,47.45,590,2025-12-20
+M0373,Azelastine 40mg Suspension,Antihistamine,21.12,31,2028-08-01
+M0374,Chlorpheniramine 500mg Cream,Antihistamine,32.27,309,2028-06-01
+M0375,Warfarin 200mg Cream,Antibiotic,22.95,61,2024-10-09
+M0376,Valacyclovir 200mg Spray,Antiviral,23.49,348,2029-10-20
+M0377,Levothyroxine 100mg Drops,Supplement,36.84,353,2027-06-22
+M0378,Amlodipine 100mg Patch,Antihypertensive,28.3,326,2025-09-17
+M0379,Lamivudine 20mg Cream,Antiviral,22.76,144,2024-02-01
+M0380,Vitamin C 50mg Gel,Supplement,43.28,428,2025-10-13
+M0381,Gabapentin 100mg Suspension,Analgesic,36.2,194,2024-10-14
+M0382,Budesonide 500mg Spray,Bronchodilator,25.19,315,2028-07-30
+M0383,Cetirizine 20mg Gel,Antihistamine,25.52,246,2025-05-31
+M0384,Ondansetron 100mg Tablet,Antipyretic,3.0,506,2029-09-13
+M0385,Azelastine 250mg Cream,Antihistamine,27.07,110,2027-11-01
+M0386,Metoprolol 50mg Drops,Antihypertensive,38.31,374,2023-07-05
+M0387,Metronidazole 10mg Suspension,Antibiotic,28.31,371,2029-03-16
+M0388,Pioglitazone 20mg Gel,Antidiabetic,25.46,563,2026-02-19
+M0389,Levocetirizine 1g Capsule,Antihistamine,6.87,99,2027-06-02
+M0390,Vancomycin 100mg Patch,Antibiotic,46.98,147,2025-03-26
+M0391,Fexofenadine 500mg Gel,Antihistamine,25.25,46,2023-06-09
+M0392,Metoprolol 100mg Spray,Antihypertensive,26.21,152,2029-10-19
+M0393,Salmeterol 25mg Drops,Bronchodilator,46.6,326,2024-10-27
+M0394,Clindamycin 1g Cream,Antibiotic,29.89,519,2028-09-18
+M0395,Senna 250mg Suspension,Laxative,15.34,17,2027-02-17
+M0396,Ceftriaxone 20mg Gel,Antibiotic,29.39,27,2029-09-10
+M0397,Salbutamol 50mg Suspension,Bronchodilator,29.09,52,2029-07-18
+M0398,Ipratropium 25mg Patch,Bronchodilator,31.64,389,2024-08-28
+M0399,Folic Acid 40mg Tablet,Supplement,28.84,112,2025-02-20
+M0400,Cetirizine 250mg Drops,Antihistamine,21.23,422,2025-04-15
+M0401,Fluconazole 500mg Suspension,Antifungal,46.07,63,2024-07-19
+M0402,Lactulose 40mg Patch,Laxative,16.59,489,2028-11-22
+M0403,Linezolid 100mg Syrup,Antibiotic,23.25,545,2026-11-03
+M0404,Psyllium 100mg Cream,Laxative,30.7,196,2025-10-06
+M0405,Glimepiride 500mg Cream,Antidiabetic,11.63,304,2026-03-29
+M0406,Zinc Sulfate 40mg Spray,Supplement,16.19,357,2029-04-14
+M0407,Lovastatin 50mg Cream,Statin,6.53,556,2027-04-05
+M0408,Clindamycin 100mg Syrup,Antibiotic,14.88,294,2023-11-20
+M0409,Cefuroxime 250mg Cream,Antibiotic,37.49,219,2025-04-07
+M0410,Senna 50mg Patch,Laxative,34.96,140,2024-03-23
+M0411,Desloratadine 1g Injection,Antihistamine,12.5,543,2025-07-13
+M0412,Diphenhydramine 40mg Tablet,Antihistamine,5.46,338,2028-04-18
+M0413,Ranitidine 25mg Tablet,Antacid,48.24,161,2027-07-25
+M0414,Azelastine 250mg Spray,Antihistamine,32.7,294,2026-08-08
+M0415,Pioglitazone 10mg Capsule,Antidiabetic,32.79,237,2028-12-31
+M0416,Riboflavin 10mg Syrup,Supplement,21.19,180,2023-05-29
+M0417,Clindamycin 250mg Syrup,Antibiotic,46.86,296,2023-06-03
+M0418,Amoxicillin 50mg Suspension,Antibiotic,30.34,343,2026-03-11
+M0419,Tenofovir 500mg Patch,Antiviral,24.95,137,2028-08-27
+M0420,Lamivudine 50mg Injection,Antiviral,40.54,338,2024-10-27
+M0421,Niacin 250mg Cream,Supplement,36.07,14,2026-10-12
+M0422,Lovastatin 50mg Suspension,Statin,33.88,197,2024-12-19
+M0423,Desloratadine 200mg Gel,Antihistamine,26.01,88,2027-06-30
+M0424,Vitamin B12 20mg Syrup,Supplement,49.09,488,2026-08-18
+M0425,Warfarin 10mg Cream,Antibiotic,19.49,457,2025-12-29
+M0426,Ceftriaxone 50mg Suspension,Antibiotic,36.28,11,2025-12-07
+M0427,Azelastine 100mg Injection,Antihistamine,3.58,121,2028-03-21
+M0428,Canagliflozin 25mg Gel,Antidiabetic,34.46,318,2024-04-25
+M0429,Diphenhydramine 50mg Drops,Antihistamine,30.92,224,2024-07-01
+M0430,Ipratropium 25mg Spray,Bronchodilator,37.51,382,2027-08-31
+M0431,Calcium Carbonate 500mg Spray,Supplement,37.99,223,2025-10-10
+M0432,Folic Acid 1g Capsule,Supplement,26.51,540,2027-01-21
+M0433,Montelukast 1g Capsule,Antiallergy,3.56,560,2028-09-01
+M0434,Clonazepam 1g Patch,Antidepressant,7.92,335,2028-11-01
+M0435,Valacyclovir 20mg Injection,Antiviral,35.99,500,2024-01-08
+M0436,Salmeterol 250mg Tablet,Bronchodilator,22.94,525,2027-08-29
+M0437,Tenofovir 1g Tablet,Antiviral,28.16,315,2023-03-31
+M0438,Clindamycin 50mg Tablet,Antibiotic,37.42,592,2023-10-27
+M0439,Calcium Carbonate 20mg Patch,Supplement,49.71,70,2028-04-17
+M0440,Ibuprofen 50mg Gel,Analgesic,9.41,138,2027-09-18
+M0441,Vancomycin 200mg Spray,Antibiotic,43.55,386,2027-03-19
+M0442,Doxycycline 500mg Syrup,Antibiotic,32.85,356,2024-04-30
+M0443,Fluoxetine 500mg Gel,Antidepressant,26.68,228,2023-01-15
+M0444,Rosuvastatin 10mg Cream,Statin,23.42,557,2027-10-04
+M0445,Senna 200mg Injection,Laxative,12.75,354,2024-09-27
+M0446,Glimepiride 40mg Capsule,Antidiabetic,2.09,429,2029-11-23
+M0447,Pravastatin 10mg Injection,Statin,10.7,103,2029-08-29
+M0448,Ibuprofen 250mg Suspension,Analgesic,33.77,49,2025-09-29
+M0449,Riboflavin 10mg Gel,Supplement,22.23,552,2025-06-08
+M0450,Rosuvastatin 10mg Syrup,Statin,25.44,296,2025-08-17
+M0451,Niacin 1g Drops,Supplement,29.09,328,2025-08-28
+M0452,Dapagliflozin 25mg Patch,Antidiabetic,11.44,307,2026-02-01
+M0453,Aspirin 500mg Suspension,Analgesic,44.05,179,2027-10-16
+M0454,Pantoprazole 250mg Tablet,Antacid,48.63,390,2028-11-18
+M0455,Liraglutide 200mg Gel,Antidiabetic,7.89,385,2025-01-23
+M0456,Rosuvastatin 500mg Spray,Statin,12.43,230,2026-05-16
+M0457,Zinc Sulfate 25mg Spray,Supplement,45.78,575,2027-08-18
+M0458,Itraconazole 500mg Patch,Antifungal,7.14,248,2025-11-10
+M0459,Zolpidem 100mg Capsule,Antidepressant,46.15,379,2024-01-14
+M0460,Senna 40mg Tablet,Laxative,13.79,40,2023-10-26
+M0461,Alprazolam 1g Patch,Antidepressant,11.24,213,2026-09-25
+M0462,Dapagliflozin 10mg Injection,Antidiabetic,46.89,120,2028-05-15
+M0463,Warfarin 1g Injection,Antibiotic,20.13,245,2029-03-11
+M0464,Acarbose 50mg Gel,Antidiabetic,23.58,367,2026-06-17
+M0465,Sitagliptin 100mg Patch,Antidiabetic,44.2,477,2024-02-08
+M0466,Omega 3 250mg Drops,Supplement,45.76,379,2026-07-05
+M0467,Fluconazole 10mg Suspension,Antifungal,43.27,149,2023-03-08
+M0468,Sitagliptin 500mg Suspension,Antidiabetic,29.17,427,2026-04-24
+M0469,Prednisone 40mg Drops,Analgesic,11.89,583,2025-10-03
+M0470,Budesonide 500mg Drops,Bronchodilator,13.24,500,2028-07-02
+M0471,Tenofovir 25mg Drops,Antiviral,8.88,559,2028-06-23
+M0472,Diazepam 500mg Tablet,Antidepressant,26.44,76,2023-07-18
+M0473,Simvastatin 10mg Gel,Statin,7.31,236,2023-10-06
+M0474,Zinc Sulfate 25mg Tablet,Supplement,11.33,466,2027-03-09
+M0475,Aspirin 1g Suspension,Analgesic,45.68,499,2023-03-06
+M0476,Paracetamol 500mg Patch,Analgesic,20.86,17,2028-12-08
+M0477,Omega 3 50mg Patch,Supplement,48.89,17,2028-08-19
+M0478,Calcium Carbonate 200mg Syrup,Supplement,5.8,98,2028-11-17
+M0479,Prednisone 40mg Injection,Analgesic,31.18,258,2026-12-22
+M0480,Glipizide 200mg Capsule,Antidiabetic,18.97,415,2028-02-24
+M0481,Esomeprazole 40mg Injection,Antacid,15.35,82,2023-05-10
+M0482,Ciprofloxacin 200mg Gel,Antibiotic,19.17,487,2023-08-18
+M0483,Diphenhydramine 10mg Syrup,Antihistamine,4.59,444,2026-09-18
+M0484,Esomeprazole 20mg Patch,Antacid,46.0,235,2025-05-15
+M0485,Glipizide 10mg Capsule,Antidiabetic,34.38,287,2029-02-02
+M0486,Esomeprazole 10mg Syrup,Antacid,46.47,322,2023-03-06
+M0487,Zolpidem 1g Syrup,Antidepressant,37.74,407,2023-11-12
+M0488,Dapagliflozin 25mg Suspension,Antidiabetic,12.4,398,2029-01-23
+M0489,Ceftriaxone 200mg Syrup,Antibiotic,39.63,80,2028-08-13
+M0490,Thiamine 100mg Tablet,Supplement,5.34,237,2023-11-08
+M0491,Cefixime 1g Suspension,Antibiotic,47.77,406,2026-08-29
+M0492,Metformin 50mg Spray,Antidiabetic,24.78,364,2029-03-15
+M0493,Linezolid 200mg Syrup,Antibiotic,34.14,389,2023-12-18
+M0494,Pravastatin 1g Cream,Statin,40.0,75,2023-12-03
+M0495,Glipizide 25mg Gel,Antidiabetic,35.73,157,2027-05-15
+M0496,Liraglutide 100mg Capsule,Antidiabetic,5.03,315,2027-12-27
+M0497,Meropenem 50mg Capsule,Antibiotic,7.06,191,2027-11-01
+M0498,Oseltamivir 500mg Patch,Antiviral,25.87,105,2023-04-18
+M0499,Ciprofloxacin 100mg Patch,Antibiotic,5.11,332,2027-04-27
+M0500,Amoxicillin 50mg Gel,Antibiotic,19.7,86,2029-04-10
+M0501,Warfarin 1g Patch,Antibiotic,8.89,389,2024-11-25
+M0502,Metoprolol 50mg Cream,Antihypertensive,13.79,149,2023-09-17
+M0503,Sertraline 200mg Cream,Antidepressant,21.34,495,2023-11-12
+M0504,Meropenem 50mg Injection,Antibiotic,36.18,507,2029-08-29
+M0505,Desloratadine 40mg Spray,Antihistamine,5.8,311,2023-01-28
+M0506,Clindamycin 100mg Suspension,Antibiotic,19.3,337,2027-12-09
+M0507,Ceftriaxone 200mg Suspension,Antibiotic,7.24,328,2029-10-06
+M0508,Iron Sulfate 40mg Spray,Supplement,16.05,407,2026-07-31
+M0509,Empagliflozin 250mg Suspension,Antidiabetic,39.21,333,2027-03-21
+M0510,Glimepiride 200mg Drops,Antidiabetic,6.14,577,2025-03-29
+M0511,Promethazine 500mg Syrup,Antihistamine,34.24,563,2023-04-21
+M0512,Niacin 250mg Injection,Supplement,22.2,298,2023-10-11
+M0513,Lovastatin 200mg Spray,Statin,7.39,310,2025-09-18
+M0514,Clopidogrel 25mg Gel,Analgesic,39.56,75,2028-01-14
+M0515,Loratadine 250mg Suspension,Antihistamine,20.34,518,2027-09-10
+M0516,Psyllium 10mg Drops,Laxative,35.23,549,2029-08-29
+M0517,Diphenhydramine 20mg Capsule,Antihistamine,38.56,363,2024-11-12
+M0518,Hydroxyzine 1g Tablet,Antihistamine,28.38,409,2026-09-20
+M0519,Lovastatin 200mg Capsule,Statin,1.02,264,2025-06-28
+M0520,Salmeterol 500mg Patch,Bronchodilator,29.24,589,2025-06-24
+M0521,Oseltamivir 100mg Gel,Antiviral,23.42,512,2024-09-09
+M0522,Cefuroxime 10mg Spray,Antibiotic,5.68,425,2023-12-18
+M0523,Atorvastatin 25mg Drops,Statin,15.94,466,2025-04-27
+M0524,Lactulose 250mg Drops,Laxative,24.07,448,2028-01-28
+M0525,Azithromycin 20mg Tablet,Antibiotic,42.53,111,2024-11-04
+M0526,Riboflavin 40mg Patch,Supplement,9.14,163,2026-09-17
+M0527,Pantoprazole 200mg Spray,Antacid,11.98,414,2025-01-25
+M0528,Diazepam 200mg Gel,Antidepressant,1.95,202,2028-01-16
+M0529,Promethazine 200mg Gel,Antihistamine,0.72,219,2025-04-22
+M0530,Glimepiride 20mg Suspension,Antidiabetic,5.54,549,2025-02-04
+M0531,Meropenem 100mg Injection,Antibiotic,23.15,268,2028-06-27
+M0532,Bisacodyl 100mg Suspension,Laxative,19.74,401,2029-08-01
+M0533,Atorvastatin 100mg Drops,Statin,42.35,176,2026-05-03
+M0534,Desloratadine 1g Capsule,Antihistamine,33.77,320,2024-04-27
+M0535,Hydrochlorothiazide 50mg Capsule,Antihypertensive,9.56,144,2028-09-23
+M0536,Gentamicin 200mg Suspension,Antibiotic,7.32,392,2027-09-29
+M0537,Diazepam 250mg Patch,Antidepressant,34.82,177,2029-03-22
+M0538,Sertraline 250mg Cream,Antidepressant,7.44,322,2028-01-22
+M0539,Levocetirizine 10mg Drops,Antihistamine,47.62,496,2024-07-13
+M0540,Alprazolam 200mg Patch,Antidepressant,25.52,506,2027-08-03
+M0541,Folic Acid 250mg Gel,Supplement,35.65,454,2028-06-24
+M0542,Sertraline 20mg Suspension,Antidepressant,2.03,225,2026-04-11
+M0543,Ibuprofen 50mg Injection,Analgesic,27.11,172,2028-02-17
+M0544,Esomeprazole 250mg Patch,Antacid,25.78,586,2024-04-12
+M0545,Glipizide 500mg Drops,Antidiabetic,27.33,42,2027-12-13
+M0546,Psyllium 40mg Gel,Laxative,5.57,253,2026-05-04
+M0547,Ibuprofen 250mg Cream,Analgesic,17.75,89,2027-12-04
+M0548,Losartan 40mg Injection,Antihypertensive,40.63,359,2029-11-04
+M0549,Chlorpheniramine 200mg Syrup,Antihistamine,31.0,211,2025-04-27
+M0550,Aspirin 1g Drops,Analgesic,26.85,551,2024-11-20
+M0551,Acarbose 50mg Cream,Antidiabetic,28.85,526,2024-01-26
+M0552,Metoprolol 200mg Tablet,Antihypertensive,49.63,129,2024-06-27
+M0553,Warfarin 25mg Drops,Antibiotic,41.51,402,2028-06-27
+M0554,Levothyroxine 1g Cream,Supplement,31.58,384,2028-01-26
+M0555,Montelukast 20mg Gel,Antiallergy,26.02,284,2027-02-20
+M0556,Tenofovir 250mg Drops,Antiviral,29.31,95,2028-02-21
+M0557,Diphenhydramine 100mg Capsule,Antihistamine,39.89,407,2025-06-11
+M0558,Voriconazole 40mg Spray,Antifungal,13.79,290,2026-10-15
+M0559,Domperidone 1g Syrup,Antacid,28.52,496,2026-11-08
+M0560,Folic Acid 10mg Tablet,Supplement,5.43,470,2023-03-08
+M0561,Tenofovir 10mg Gel,Antiviral,10.51,135,2026-05-21
+M0562,Gabapentin 50mg Capsule,Analgesic,32.9,256,2023-12-04
+M0563,Vancomycin 25mg Tablet,Antibiotic,20.12,312,2025-08-17
+M0564,Voriconazole 20mg Capsule,Antifungal,0.55,488,2023-11-16
+M0565,Amlodipine 1g Injection,Antihypertensive,26.21,455,2023-02-08
+M0566,Amoxicillin 100mg Capsule,Antibiotic,49.41,432,2024-06-25
+M0567,Ipratropium 20mg Injection,Bronchodilator,19.46,104,2024-02-27
+M0568,Liraglutide 100mg Cream,Antidiabetic,7.29,136,2024-08-08
+M0569,Insulin 500mg Suspension,Antidiabetic,0.92,168,2027-12-08
+M0570,Cefuroxime 40mg Syrup,Antibiotic,46.03,453,2025-06-08
+M0571,Ciprofloxacin 20mg Syrup,Antibiotic,37.75,393,2026-12-10
+M0572,Voriconazole 100mg Syrup,Antifungal,12.77,86,2025-10-13
+M0573,Domperidone 1g Suspension,Antacid,36.2,291,2023-04-20
+M0574,Vitamin D3 50mg Injection,Supplement,26.13,521,2025-02-11
+M0575,Thiamine 200mg Cream,Supplement,32.49,245,2028-07-20
+M0576,Gentamicin 20mg Injection,Antibiotic,25.23,72,2028-12-03
+M0577,Amoxicillin 100mg Drops,Antibiotic,7.03,582,2027-09-20
+M0578,Meropenem 500mg Syrup,Antibiotic,38.25,74,2023-03-10
+M0579,Promethazine 20mg Tablet,Antihistamine,13.48,40,2023-09-05
+M0580,Lovastatin 200mg Patch,Statin,14.68,513,2027-08-29
+M0581,Voriconazole 200mg Capsule,Antifungal,32.21,550,2029-11-28
+M0582,Prednisone 50mg Capsule,Analgesic,15.84,523,2025-04-12
+M0583,Prednisone 500mg Drops,Analgesic,19.84,67,2026-06-24
+M0584,Calcium Carbonate 200mg Injection,Supplement,3.37,88,2027-11-15
+M0585,Atorvastatin 250mg Suspension,Statin,30.64,316,2024-12-20
+M0586,Losartan 10mg Syrup,Antihypertensive,35.22,167,2028-07-26
+M0587,Cefuroxime 500mg Patch,Antibiotic,39.26,265,2024-11-14
+M0588,Vancomycin 25mg Cream,Antibiotic,36.78,120,2023-05-01
+M0589,Ceftriaxone 200mg Cream,Antibiotic,26.43,269,2029-06-19
+M0590,Chlorpheniramine 20mg Spray,Antihistamine,23.03,368,2023-08-16
+M0591,Budesonide 1g Syrup,Bronchodilator,18.7,261,2024-02-26
+M0592,Sucralfate 20mg Injection,Antacid,37.17,2,2023-06-30
+M0593,Amoxicillin 40mg Tablet,Antibiotic,23.85,392,2024-09-06
+M0594,Fluoxetine 10mg Patch,Antidepressant,40.25,429,2025-07-08
+M0595,Acarbose 40mg Gel,Antidiabetic,45.83,327,2026-01-16
+M0596,Montelukast 1g Drops,Antiallergy,6.41,53,2025-01-04
+M0597,Furosemide 500mg Tablet,Antihypertensive,47.73,70,2028-03-20
+M0598,Pioglitazone 50mg Drops,Antidiabetic,4.78,467,2023-02-02
+M0599,Vancomycin 40mg Cream,Antibiotic,28.41,311,2029-12-25
+M0600,Warfarin 250mg Drops,Antibiotic,29.79,505,2025-03-11
+M0601,Niacin 500mg Injection,Supplement,7.95,419,2023-04-08
+M0602,Spironolactone 500mg Drops,Antihypertensive,31.98,9,2026-10-04
+M0603,Paracetamol 200mg Cream,Analgesic,5.65,542,2025-09-02
+M0604,Itraconazole 250mg Tablet,Antifungal,48.64,145,2026-02-20
+M0605,Ciprofloxacin 10mg Injection,Antibiotic,44.92,532,2027-08-19
+M0606,Calcium Carbonate 100mg Spray,Supplement,48.74,86,2029-07-06
+M0607,Ranitidine 500mg Syrup,Antacid,32.04,403,2023-11-03
+M0608,Promethazine 1g Tablet,Antihistamine,22.03,133,2025-08-27
+M0609,Empagliflozin 50mg Drops,Antidiabetic,46.34,402,2026-08-29
+M0610,Liraglutide 250mg Cream,Antidiabetic,12.06,207,2024-07-11
+M0611,Fluvastatin 1g Capsule,Statin,8.19,168,2028-01-16
+M0612,Lamivudine 100mg Gel,Antiviral,6.48,366,2025-04-30
+M0613,Oseltamivir 50mg Spray,Antiviral,13.62,122,2024-01-06
+M0614,Gabapentin 50mg Suspension,Analgesic,2.5,335,2024-08-30
+M0615,Ciprofloxacin 40mg Drops,Antibiotic,20.11,50,2026-05-09
+M0616,Sitagliptin 25mg Tablet,Antidiabetic,47.63,463,2029-03-27
+M0617,Thiamine 500mg Injection,Supplement,5.19,104,2024-07-26
+M0618,Losartan 10mg Tablet,Antihypertensive,41.6,227,2024-06-19
+M0619,Clonazepam 200mg Drops,Antidepressant,34.47,86,2029-07-13
+M0620,Promethazine 50mg Capsule,Antihistamine,1.58,66,2025-03-20
+M0621,Hydroxyzine 250mg Syrup,Antihistamine,5.05,339,2024-05-16
+M0622,Azithromycin 250mg Tablet,Antibiotic,8.82,587,2027-11-10
+M0623,Omega 3 200mg Spray,Supplement,1.96,436,2024-12-08
+M0624,Amoxiclav 40mg Syrup,Antibiotic,14.11,456,2024-08-31
+M0625,Ibuprofen 1g Suspension,Analgesic,31.04,302,2028-08-05
+M0626,Fluconazole 500mg Spray,Antifungal,3.52,286,2027-04-18
+M0627,Metoprolol 200mg Injection,Antihypertensive,32.31,538,2025-10-17
+M0628,Chlorpheniramine 500mg Tablet,Antihistamine,49.48,367,2028-05-18
+M0629,Psyllium 250mg Drops,Laxative,45.68,514,2026-08-10
+M0630,Gentamicin 50mg Syrup,Antibiotic,1.79,224,2023-05-01
+M0631,Fluvastatin 50mg Tablet,Statin,40.53,483,2028-12-08
+M0632,Amoxiclav 1g Injection,Antibiotic,48.71,102,2025-10-12
+M0633,Vitamin D3 40mg Cream,Supplement,26.92,57,2025-06-17
+M0634,Sucralfate 200mg Drops,Antacid,46.79,177,2024-12-22
+M0635,Hydrochlorothiazide 1g Drops,Antihypertensive,40.41,367,2029-08-20
+M0636,Metformin 100mg Suspension,Antidiabetic,28.4,576,2025-02-10
+M0637,Budesonide 500mg Cream,Bronchodilator,9.19,38,2024-01-05
+M0638,Aspirin 40mg Suspension,Analgesic,11.33,539,2028-05-11
+M0639,Paracetamol 100mg Suspension,Analgesic,10.47,133,2026-10-27
+M0640,Aspirin 10mg Syrup,Analgesic,29.54,145,2024-03-30
+M0641,Bisacodyl 100mg Capsule,Laxative,18.99,405,2029-07-28
+M0642,Ranitidine 100mg Cream,Antacid,16.47,161,2027-11-25
+M0643,Lovastatin 250mg Drops,Statin,9.12,575,2029-11-18
+M0644,Vitamin B12 1g Syrup,Supplement,19.23,301,2024-06-05
+M0645,Fluoxetine 10mg Suspension,Antidepressant,19.88,581,2023-05-13
+M0646,Diazepam 1g Drops,Antidepressant,46.09,226,2029-05-05
+M0647,Omeprazole 250mg Syrup,Antacid,16.89,79,2025-09-01
+M0648,Cefuroxime 100mg Syrup,Antibiotic,31.99,90,2026-10-07
+M0649,Oseltamivir 10mg Cream,Antiviral,10.88,69,2026-12-06
+M0650,Clopidogrel 20mg Tablet,Analgesic,2.88,448,2027-09-15
+M0651,Sertraline 200mg Spray,Antidepressant,44.15,359,2029-02-14
+M0652,Linezolid 20mg Spray,Antibiotic,39.54,591,2025-07-12
+M0653,Gabapentin 250mg Capsule,Analgesic,40.06,34,2026-04-22
+M0654,Cetirizine 100mg Cream,Antihistamine,47.61,75,2026-11-01
+M0655,Sertraline 200mg Syrup,Antidepressant,36.73,560,2024-01-17
+M0656,Ipratropium 10mg Gel,Bronchodilator,47.15,168,2029-10-23
+M0657,Acyclovir 25mg Tablet,Antiviral,5.51,210,2025-02-17
+M0658,Fluconazole 500mg Patch,Antifungal,13.63,288,2026-05-03
+M0659,Hydrochlorothiazide 20mg Tablet,Antihypertensive,19.95,562,2028-07-03
+M0660,Prednisone 10mg Drops,Analgesic,0.69,89,2026-04-21
+M0661,Vitamin D3 1g Spray,Supplement,10.38,26,2025-04-27
+M0662,Sertraline 50mg Capsule,Antidepressant,23.94,118,2026-06-17
+M0663,Pitavastatin 200mg Spray,Statin,24.71,271,2024-01-09
+M0664,Hydroxyzine 500mg Gel,Antihistamine,9.65,390,2027-02-22
+M0665,Diazepam 250mg Tablet,Antidepressant,13.53,476,2025-12-14
+M0666,Furosemide 50mg Suspension,Antihypertensive,3.55,99,2023-12-18
+M0667,Vitamin B12 100mg Patch,Supplement,20.99,232,2029-03-17
+M0668,Aspirin 200mg Patch,Analgesic,21.22,548,2028-04-28
+M0669,Sucralfate 40mg Spray,Antacid,15.29,404,2023-05-23
+M0670,Formoterol 1g Patch,Bronchodilator,40.12,150,2024-05-07
+M0671,Rosuvastatin 250mg Syrup,Statin,47.48,171,2025-05-17
+M0672,Alprazolam 25mg Tablet,Antidepressant,21.46,445,2025-04-07
+M0673,Chlorpheniramine 25mg Suspension,Antihistamine,13.27,68,2023-12-23
+M0674,Gentamicin 500mg Gel,Antibiotic,27.83,282,2028-10-29
+M0675,Tenofovir 10mg Suspension,Antiviral,29.59,429,2024-04-05
+M0676,Itraconazole 25mg Syrup,Antifungal,28.55,596,2024-02-15
+M0677,Omeprazole 1g Capsule,Antacid,39.39,548,2026-11-09
+M0678,Fluconazole 50mg Gel,Antifungal,32.91,585,2029-10-30
+M0679,Salbutamol 10mg Syrup,Bronchodilator,14.13,147,2029-12-07
+M0680,Fexofenadine 200mg Tablet,Antihistamine,20.09,339,2025-08-31
+M0681,Vitamin C 250mg Cream,Supplement,44.9,20,2026-10-15
+M0682,Glimepiride 250mg Capsule,Antidiabetic,48.64,233,2024-07-04
+M0683,Dapagliflozin 250mg Drops,Antidiabetic,13.84,426,2029-10-13
+M0684,Hydroxyzine 20mg Injection,Antihistamine,22.36,416,2028-06-07
+M0685,Simvastatin 500mg Drops,Statin,41.14,527,2024-10-13
+M0686,Insulin 50mg Patch,Antidiabetic,20.47,536,2029-05-18
+M0687,Metformin 25mg Injection,Antidiabetic,43.82,205,2023-08-25
+M0688,Warfarin 10mg Spray,Antibiotic,3.0,369,2025-03-26
+M0689,Glimepiride 100mg Spray,Antidiabetic,25.5,126,2023-05-06
+M0690,Hydrochlorothiazide 100mg Spray,Antihypertensive,29.91,181,2028-04-27
+M0691,Promethazine 500mg Drops,Antihistamine,17.54,264,2024-01-06
+M0692,Pioglitazone 10mg Gel,Antidiabetic,2.96,585,2025-05-27
+M0693,Furosemide 40mg Injection,Antihypertensive,13.82,419,2028-10-03
+M0694,Cetirizine 10mg Spray,Antihistamine,45.62,177,2029-09-28
+M0695,Amoxicillin 40mg Cream,Antibiotic,30.61,312,2026-02-01
+M0696,Voriconazole 200mg Drops,Antifungal,23.22,223,2028-03-26
+M0697,Dapagliflozin 500mg Suspension,Antidiabetic,20.16,104,2023-01-31
+M0698,Salmeterol 100mg Patch,Bronchodilator,32.54,289,2026-05-07
+M0699,Folic Acid 20mg Spray,Supplement,3.66,283,2026-08-24
+M0700,Glimepiride 50mg Cream,Antidiabetic,9.82,529,2025-09-11
+M0701,Aspirin 1g Gel,Analgesic,33.2,143,2023-04-15
+M0702,Sitagliptin 200mg Gel,Antidiabetic,19.72,36,2029-07-16
+M0703,Zinc Sulfate 1g Injection,Supplement,17.49,227,2028-12-29
+M0704,Diphenhydramine 250mg Drops,Antihistamine,25.61,174,2029-04-05
+M0705,Diazepam 50mg Capsule,Antidepressant,23.8,264,2029-04-08
+M0706,Simvastatin 25mg Drops,Statin,32.89,227,2026-12-26
+M0707,Furosemide 50mg Gel,Antihypertensive,39.51,339,2027-03-03
+M0708,Sitagliptin 1g Cream,Antidiabetic,23.46,120,2028-04-11
+M0709,Vitamin C 1g Suspension,Supplement,47.24,72,2028-04-18
+M0710,Alprazolam 500mg Capsule,Antidepressant,43.44,390,2028-12-10
+M0711,Dapagliflozin 200mg Tablet,Antidiabetic,43.61,154,2024-07-16
+M0712,Clonazepam 100mg Gel,Antidepressant,49.37,468,2024-08-09
+M0713,Liraglutide 25mg Capsule,Antidiabetic,24.64,181,2026-07-07
+M0714,Diphenhydramine 10mg Tablet,Antihistamine,22.88,214,2024-11-21
+M0715,Sucralfate 25mg Spray,Antacid,39.37,90,2024-06-14
+M0716,Metronidazole 200mg Spray,Antibiotic,19.47,38,2028-12-26
+M0717,Clonazepam 100mg Tablet,Antidepressant,44.65,543,2025-02-19
+M0718,Cetirizine 10mg Injection,Antihistamine,11.7,352,2026-07-02
+M0719,Amlodipine 20mg Gel,Antihypertensive,25.42,313,2024-11-15
+M0720,Insulin 10mg Cream,Antidiabetic,47.45,466,2028-11-01
+M0721,Loratadine 500mg Drops,Antihistamine,21.97,137,2026-11-04
+M0722,Theophylline 100mg Injection,Bronchodilator,8.66,413,2023-03-20
+M0723,Spironolactone 40mg Syrup,Antihypertensive,10.95,22,2029-08-12
+M0724,Formoterol 25mg Capsule,Bronchodilator,18.65,38,2027-03-17
+M0725,Diphenhydramine 50mg Patch,Antihistamine,31.35,49,2024-03-18
+M0726,Azelastine 10mg Tablet,Antihistamine,34.64,426,2027-12-25
+M0727,Linezolid 20mg Patch,Antibiotic,13.01,156,2025-04-21
+M0728,Iron Sulfate 10mg Cream,Supplement,21.33,103,2028-11-01
+M0729,Glipizide 1g Suspension,Antidiabetic,35.19,428,2024-03-05
+M0730,Salmeterol 1g Capsule,Bronchodilator,14.49,108,2028-07-31
+M0731,Clonazepam 1g Injection,Antidepressant,39.01,535,2025-04-06
+M0732,Amoxiclav 200mg Cream,Antibiotic,8.44,561,2028-07-26
+M0733,Zolpidem 250mg Drops,Antidepressant,12.11,13,2023-12-31
+M0734,Atorvastatin 1g Spray,Statin,7.88,92,2028-09-26
+M0735,Montelukast 20mg Cream,Antiallergy,32.39,467,2026-04-27
+M0736,Sitagliptin 250mg Tablet,Antidiabetic,5.44,178,2023-06-11
+M0737,Empagliflozin 100mg Drops,Antidiabetic,21.59,118,2024-01-25
+M0738,Simvastatin 10mg Tablet,Statin,42.67,174,2026-09-08
+M0739,Amoxiclav 250mg Suspension,Antibiotic,13.78,95,2027-03-07
+M0740,Cefixime 25mg Capsule,Antibiotic,20.34,467,2026-01-18
+M0741,Gentamicin 250mg Gel,Antibiotic,32.62,170,2024-04-08
+M0742,Amlodipine 10mg Syrup,Antihypertensive,5.63,494,2029-05-19
+M0743,Vitamin B6 250mg Syrup,Supplement,30.76,367,2029-11-09
+M0744,Metformin 25mg Spray,Antidiabetic,46.06,115,2027-08-12
+M0745,Valacyclovir 10mg Capsule,Antiviral,13.45,321,2023-02-20
+M0746,Zinc Sulfate 500mg Suspension,Supplement,36.33,229,2026-10-17
+M0747,Lactulose 500mg Suspension,Laxative,5.21,254,2028-05-27
+M0748,Cefuroxime 200mg Syrup,Antibiotic,42.03,571,2029-11-15
+M0749,Vitamin C 10mg Syrup,Supplement,25.53,480,2028-07-23
+M0750,Sertraline 20mg Spray,Antidepressant,16.37,338,2026-02-13
+M0751,Domperidone 200mg Gel,Antacid,40.95,80,2028-02-24
+M0752,Valacyclovir 1g Spray,Antiviral,4.86,510,2028-01-06
+M0753,Liraglutide 20mg Spray,Antidiabetic,37.39,18,2024-02-25
+M0754,Metronidazole 200mg Tablet,Antibiotic,28.08,0,2024-01-08
+M0755,Lovastatin 1g Suspension,Statin,32.06,520,2029-04-22
+M0756,Meropenem 10mg Injection,Antibiotic,42.29,339,2029-04-13
+M0757,Pravastatin 1g Suspension,Statin,23.92,372,2028-01-28
+M0758,Atorvastatin 20mg Injection,Statin,0.61,363,2026-04-10
+M0759,Domperidone 500mg Drops,Antacid,35.25,46,2024-11-03
+M0760,Budesonide 25mg Gel,Bronchodilator,5.79,200,2025-02-07
+M0761,Losartan 200mg Injection,Antihypertensive,23.12,195,2026-10-16
+M0762,Omeprazole 200mg Tablet,Antacid,46.37,126,2028-01-20
+M0763,Tenofovir 1g Patch,Antiviral,7.16,510,2023-01-18
+M0764,Bisacodyl 10mg Patch,Laxative,46.8,599,2028-06-01
+M0765,Salmeterol 25mg Suspension,Bronchodilator,9.1,131,2024-02-29
+M0766,Gentamicin 1g Suspension,Antibiotic,44.19,516,2027-04-25
+M0767,Empagliflozin 250mg Syrup,Antidiabetic,7.34,524,2026-05-09
+M0768,Calcium Carbonate 500mg Drops,Supplement,35.74,566,2025-06-09
+M0769,Clonazepam 40mg Suspension,Antidepressant,35.86,353,2024-06-27
+M0770,Zinc Sulfate 25mg Patch,Supplement,27.35,330,2024-04-17
+M0771,Simvastatin 100mg Patch,Statin,24.28,584,2027-09-06
+M0772,Vitamin B6 500mg Cream,Supplement,43.94,432,2023-02-22
+M0773,Lactulose 20mg Tablet,Laxative,19.35,54,2023-08-20
+M0774,Clonazepam 50mg Syrup,Antidepressant,49.18,256,2024-08-22
+M0775,Aspirin 50mg Injection,Analgesic,37.8,33,2027-01-09
+M0776,Oseltamivir 20mg Suspension,Antiviral,43.47,575,2025-07-07
+M0777,Thiamine 500mg Gel,Supplement,12.26,294,2023-07-12
+M0778,Linezolid 200mg Gel,Antibiotic,47.86,320,2029-03-11
+M0779,Vitamin C 10mg Cream,Supplement,10.55,453,2025-07-12
+M0780,Diphenhydramine 100mg Suspension,Antihistamine,27.56,201,2025-03-03
+M0781,Folic Acid 20mg Syrup,Supplement,48.14,526,2024-05-03
+M0782,Linezolid 10mg Gel,Antibiotic,14.32,270,2024-06-16
+M0783,Gabapentin 1g Cream,Analgesic,0.78,477,2024-09-26
+M0784,Azithromycin 25mg Drops,Antibiotic,30.05,308,2028-07-02
+M0785,Lovastatin 1g Patch,Statin,18.23,325,2028-11-22
+M0786,Furosemide 25mg Patch,Antihypertensive,3.87,517,2024-10-14
+M0787,Metronidazole 20mg Drops,Antibiotic,11.45,218,2026-09-21
+M0788,Ceftriaxone 100mg Cream,Antibiotic,11.31,543,2028-04-29
+M0789,Vitamin B12 100mg Spray,Supplement,12.4,249,2023-06-13
+M0790,Folic Acid 100mg Gel,Supplement,45.84,116,2027-04-30
+M0791,Clopidogrel 500mg Cream,Analgesic,1.72,529,2027-03-16
+M0792,Salmeterol 500mg Spray,Bronchodilator,24.6,303,2025-02-27
+M0793,Acarbose 500mg Capsule,Antidiabetic,47.44,171,2029-01-12
+M0794,Senna 10mg Capsule,Laxative,10.93,218,2027-10-04
+M0795,Omeprazole 40mg Patch,Antacid,41.52,445,2023-10-23
+M0796,Thiamine 25mg Tablet,Supplement,23.23,339,2023-06-05
+M0797,Ciprofloxacin 20mg Tablet,Antibiotic,9.31,257,2029-04-04
+M0798,Montelukast 1g Injection,Antiallergy,45.59,417,2027-05-09
+M0799,Oseltamivir 200mg Gel,Antiviral,16.16,398,2024-04-29
+M0800,Senna 10mg Suspension,Laxative,3.63,599,2023-07-06
+M0801,Calcium Carbonate 20mg Drops,Supplement,46.44,108,2026-04-02
+M0802,Pitavastatin 50mg Suspension,Statin,4.78,448,2027-04-12
+M0803,Clindamycin 10mg Spray,Antibiotic,8.24,225,2024-07-12
+M0804,Thiamine 200mg Patch,Supplement,15.1,147,2026-05-05
+M0805,Vitamin B6 100mg Tablet,Supplement,27.9,568,2024-08-02
+M0806,Sucralfate 1g Gel,Antacid,27.09,87,2026-06-02
+M0807,Zolpidem 100mg Injection,Antidepressant,20.93,524,2024-08-06
+M0808,Gabapentin 25mg Injection,Analgesic,31.04,258,2025-03-06
+M0809,Atorvastatin 25mg Suspension,Statin,42.69,562,2028-03-04
+M0810,Hydroxyzine 500mg Capsule,Antihistamine,14.89,68,2025-10-23
+M0811,Ranitidine 40mg Suspension,Antacid,24.62,338,2027-01-02
+M0812,Amlodipine 40mg Capsule,Antihypertensive,14.61,71,2025-03-03
+M0813,Liraglutide 250mg Spray,Antidiabetic,16.75,313,2029-07-20
+M0814,Prednisone 1g Suspension,Analgesic,18.54,323,2027-10-21
+M0815,Sertraline 10mg Drops,Antidepressant,12.69,226,2027-11-22
+M0816,Glimepiride 100mg Syrup,Antidiabetic,34.14,339,2028-05-19
+M0817,Lamivudine 250mg Drops,Antiviral,38.85,498,2029-03-09
+M0818,Omeprazole 25mg Suspension,Antacid,4.56,287,2024-07-27
+M0819,Senna 40mg Cream,Laxative,36.81,78,2023-11-05
+M0820,Cetirizine 500mg Tablet,Antihistamine,40.73,592,2027-07-18
+M0821,Pravastatin 1g Injection,Statin,45.36,564,2025-12-03
+M0822,Psyllium 500mg Spray,Laxative,32.87,152,2027-02-07
+M0823,Clindamycin 40mg Suspension,Antibiotic,36.79,297,2024-07-02
+M0824,Lamivudine 500mg Patch,Antiviral,4.98,372,2028-08-18
+M0825,Amoxicillin 40mg Suspension,Antibiotic,34.37,526,2024-07-28
+M0826,Oseltamivir 25mg Syrup,Antiviral,28.53,579,2024-08-21
+M0827,Riboflavin 250mg Drops,Supplement,2.5,499,2025-08-07
+M0828,Insulin 50mg Drops,Antidiabetic,12.08,211,2028-10-22
+M0829,Lovastatin 100mg Gel,Statin,23.75,465,2023-07-10
+M0830,Azithromycin 100mg Capsule,Antibiotic,35.33,533,2026-01-25
+M0831,Riboflavin 50mg Suspension,Supplement,27.45,178,2027-03-23
+M0832,Azelastine 200mg Drops,Antihistamine,29.59,79,2028-10-17
+M0833,Clopidogrel 200mg Injection,Analgesic,26.06,361,2026-11-14
+M0834,Theophylline 250mg Suspension,Bronchodilator,0.83,142,2027-12-07
+M0835,Sertraline 40mg Capsule,Antidepressant,25.97,287,2025-05-16
+M0836,Prednisone 25mg Syrup,Analgesic,18.43,121,2025-08-01
+M0837,Itraconazole 100mg Capsule,Antifungal,24.34,490,2028-05-16
+M0838,Hydroxyzine 200mg Tablet,Antihistamine,12.56,130,2029-06-07
+M0839,Promethazine 25mg Syrup,Antihistamine,31.66,40,2029-06-02
+M0840,Levothyroxine 10mg Syrup,Supplement,13.28,184,2028-10-17
+M0841,Metronidazole 1g Suspension,Antibiotic,32.06,290,2023-12-18
+M0842,Tramadol 250mg Suspension,Analgesic,49.64,493,2024-11-29
+M0843,Levothyroxine 1g Syrup,Supplement,31.35,523,2025-12-19
+M0844,Sertraline 100mg Spray,Antidepressant,30.03,70,2025-07-30
+M0845,Omeprazole 10mg Injection,Antacid,26.37,516,2027-09-16
+M0846,Prednisone 1g Capsule,Analgesic,9.28,39,2028-12-16
+M0847,Formoterol 20mg Capsule,Bronchodilator,24.37,133,2029-10-07
+M0848,Psyllium 10mg Gel,Laxative,26.34,379,2023-06-27
+M0849,Calcium Carbonate 500mg Gel,Supplement,11.86,493,2027-04-11
+M0850,Cefuroxime 1g Suspension,Antibiotic,5.34,137,2025-11-08
+M0851,Ipratropium 40mg Capsule,Bronchodilator,14.52,556,2027-08-01
+M0852,Clopidogrel 40mg Tablet,Analgesic,35.6,7,2029-06-25
+M0853,Lactulose 20mg Patch,Laxative,0.86,210,2026-07-17
+M0854,Fluconazole 100mg Capsule,Antifungal,8.16,599,2025-11-04
+M0855,Sitagliptin 500mg Gel,Antidiabetic,28.45,282,2027-06-16
+M0856,Rosuvastatin 40mg Gel,Statin,27.83,570,2028-05-30
+M0857,Fluoxetine 100mg Patch,Antidepressant,27.97,259,2026-06-10
+M0858,Sucralfate 100mg Gel,Antacid,36.92,121,2025-07-30
+M0859,Oseltamivir 25mg Capsule,Antiviral,11.12,410,2026-10-18
+M0860,Domperidone 1g Tablet,Antacid,8.46,5,2024-01-09
+M0861,Levothyroxine 250mg Suspension,Supplement,22.05,65,2025-12-13
+M0862,Furosemide 100mg Capsule,Antihypertensive,30.65,393,2027-06-30
+M0863,Desloratadine 500mg Cream,Antihistamine,35.72,58,2024-12-18
+M0864,Diphenhydramine 250mg Spray,Antihistamine,1.03,530,2026-03-17
+M0865,Alprazolam 10mg Suspension,Antidepressant,25.77,237,2029-11-24
+M0866,Hydrochlorothiazide 10mg Syrup,Antihypertensive,4.8,282,2027-06-25
+M0867,Amoxiclav 200mg Gel,Antibiotic,29.51,530,2023-03-04
+M0868,Riboflavin 20mg Capsule,Supplement,27.7,572,2029-07-15
+M0869,Cefuroxime 100mg Cream,Antibiotic,11.7,199,2028-02-06
+M0870,Metronidazole 1g Tablet,Antibiotic,13.42,416,2028-09-04
+M0871,Omeprazole 500mg Capsule,Antacid,25.41,348,2024-04-24
+M0872,Salmeterol 50mg Patch,Bronchodilator,40.75,588,2025-10-21
+M0873,Iron Sulfate 250mg Gel,Supplement,28.38,249,2026-10-23
+M0874,Fluvastatin 250mg Spray,Statin,44.88,28,2028-05-28
+M0875,Atorvastatin 50mg Capsule,Statin,19.44,225,2025-07-30
+M0876,Liraglutide 200mg Drops,Antidiabetic,26.07,9,2025-12-14
+M0877,Warfarin 50mg Capsule,Antibiotic,20.25,350,2023-11-08
+M0878,Domperidone 25mg Spray,Antacid,16.04,223,2029-06-07
+M0879,Glipizide 25mg Injection,Antidiabetic,25.2,204,2025-08-19
+M0880,Riboflavin 40mg Cream,Supplement,10.74,207,2025-10-19
+M0881,Levocetirizine 100mg Syrup,Antihistamine,39.06,122,2023-11-18
+M0882,Vitamin B6 250mg Suspension,Supplement,0.83,554,2023-06-23
+M0883,Ipratropium 100mg Suspension,Bronchodilator,16.11,588,2026-01-30
+M0884,Theophylline 25mg Patch,Bronchodilator,14.37,227,2029-06-20
+M0885,Amlodipine 10mg Patch,Antihypertensive,40.06,489,2029-01-23
+M0886,Ibuprofen 500mg Drops,Analgesic,19.99,178,2028-02-16
+M0887,Losartan 500mg Spray,Antihypertensive,16.12,8,2023-02-18
+M0888,Vitamin B6 40mg Gel,Supplement,29.26,333,2027-01-21
+M0889,Desloratadine 50mg Syrup,Antihistamine,27.65,242,2026-01-08
+M0890,Salbutamol 1g Drops,Bronchodilator,18.61,510,2027-10-03
+M0891,Zolpidem 200mg Drops,Antidepressant,18.57,410,2026-02-19
+M0892,Oseltamivir 25mg Suspension,Antiviral,6.99,589,2025-07-25
+M0893,Ranitidine 50mg Injection,Antacid,27.99,390,2025-03-14
+M0894,Levothyroxine 25mg Spray,Supplement,40.38,180,2027-09-23
+M0895,Budesonide 25mg Patch,Bronchodilator,26.93,323,2028-06-16
+M0896,Dapagliflozin 50mg Patch,Antidiabetic,43.0,48,2027-06-20
+M0897,Tramadol 50mg Spray,Analgesic,42.03,98,2028-01-17
+M0898,Thiamine 100mg Cream,Supplement,18.37,573,2029-04-02
+M0899,Clopidogrel 100mg Tablet,Analgesic,20.88,359,2029-10-16
+M0900,Clonazepam 1g Suspension,Antidepressant,32.67,551,2024-12-15
+M0901,Fluvastatin 50mg Drops,Statin,16.59,522,2028-06-19
+M0902,Fluvastatin 250mg Capsule,Statin,19.36,293,2028-03-14
+M0903,Chlorpheniramine 25mg Syrup,Antihistamine,32.21,345,2027-09-24
+M0904,Chlorpheniramine 1g Suspension,Antihistamine,20.54,73,2023-11-21
+M0905,Gabapentin 100mg Injection,Analgesic,16.02,298,2025-12-31
+M0906,Fexofenadine 200mg Cream,Antihistamine,44.44,371,2029-08-01
+M0907,Lactulose 250mg Gel,Laxative,8.78,23,2024-05-27
+M0908,Niacin 40mg Cream,Supplement,47.05,81,2025-05-12
+M0909,Sertraline 200mg Capsule,Antidepressant,5.23,484,2029-02-24
+M0910,Vitamin C 10mg Gel,Supplement,26.44,85,2024-03-01
+M0911,Sitagliptin 1g Syrup,Antidiabetic,4.67,399,2026-06-21
+M0912,Spironolactone 40mg Cream,Antihypertensive,22.44,129,2024-06-21
+M0913,Bisacodyl 25mg Tablet,Laxative,2.24,365,2026-08-25
+M0914,Salbutamol 250mg Patch,Bronchodilator,46.78,561,2027-12-28
+M0915,Metoprolol 500mg Syrup,Antihypertensive,29.75,467,2029-04-29
+M0916,Acyclovir 500mg Patch,Antiviral,15.83,355,2028-05-26
+M0917,Psyllium 40mg Capsule,Laxative,22.37,374,2027-08-16
+M0918,Sitagliptin 25mg Cream,Antidiabetic,1.02,535,2024-07-12
+M0919,Cefuroxime 50mg Spray,Antibiotic,26.99,503,2028-05-08
+M0920,Dapagliflozin 10mg Gel,Antidiabetic,40.0,236,2023-01-30
+M0921,Domperidone 100mg Injection,Antacid,20.88,574,2027-11-26
+M0922,Clindamycin 40mg Syrup,Antibiotic,35.89,399,2027-03-30
+M0923,Furosemide 50mg Capsule,Antihypertensive,21.4,245,2028-10-17
+M0924,Simvastatin 1g Cream,Statin,14.59,544,2026-01-06
+M0925,Fluconazole 40mg Capsule,Antifungal,9.53,296,2024-03-28
+M0926,Diphenhydramine 250mg Suspension,Antihistamine,22.91,503,2025-02-08
+M0927,Acarbose 10mg Syrup,Antidiabetic,2.96,547,2023-04-01
+M0928,Diazepam 20mg Cream,Antidepressant,13.83,448,2023-02-03
+M0929,Spironolactone 20mg Syrup,Antihypertensive,1.23,222,2026-11-01
+M0930,Itraconazole 50mg Spray,Antifungal,49.9,474,2023-05-10
+M0931,Ceftriaxone 20mg Syrup,Antibiotic,3.27,401,2023-10-20
+M0932,Psyllium 250mg Syrup,Laxative,10.01,256,2027-04-12
+M0933,Amoxicillin 20mg Injection,Antibiotic,19.55,453,2025-10-09
+M0934,Riboflavin 10mg Injection,Supplement,23.31,96,2028-11-04
+M0935,Vitamin B12 40mg Spray,Supplement,19.76,319,2026-08-16
+M0936,Gabapentin 10mg Patch,Analgesic,26.29,259,2028-05-25
+M0937,Diphenhydramine 50mg Injection,Antihistamine,18.34,53,2025-06-11
+M0938,Atorvastatin 40mg Gel,Statin,16.56,171,2026-02-04
+M0939,Ondansetron 20mg Gel,Antipyretic,39.56,9,2023-06-22
+M0940,Ondansetron 250mg Suspension,Antipyretic,8.17,91,2025-10-15
+M0941,Folic Acid 1g Drops,Supplement,46.58,61,2023-09-02
+M0942,Amoxiclav 25mg Patch,Antibiotic,39.68,128,2028-06-21
+M0943,Spironolactone 100mg Patch,Antihypertensive,39.53,355,2027-12-02
+M0944,Niacin 40mg Tablet,Supplement,34.62,366,2024-07-05
+M0945,Clopidogrel 10mg Spray,Analgesic,35.48,572,2026-04-22
+M0946,Psyllium 250mg Injection,Laxative,28.55,556,2026-11-25
+M0947,Acarbose 250mg Cream,Antidiabetic,43.45,567,2024-10-18
+M0948,Insulin 500mg Syrup,Antidiabetic,22.74,269,2029-01-27
+M0949,Meropenem 250mg Tablet,Antibiotic,38.91,518,2027-04-02
+M0950,Niacin 25mg Tablet,Supplement,31.18,372,2029-12-15
+M0951,Hydrochlorothiazide 100mg Capsule,Antihypertensive,33.09,551,2027-05-07
+M0952,Alprazolam 500mg Spray,Antidepressant,38.4,157,2029-11-16
+M0953,Pioglitazone 100mg Gel,Antidiabetic,32.22,113,2024-01-30
+M0954,Amlodipine 25mg Tablet,Antihypertensive,10.5,497,2025-02-23
+M0955,Ranitidine 10mg Suspension,Antacid,32.27,397,2028-06-29
+M0956,Bisacodyl 1g Suspension,Laxative,13.17,375,2025-06-23
+M0957,Fexofenadine 20mg Tablet,Antihistamine,46.55,213,2028-07-05
+M0958,Meropenem 500mg Gel,Antibiotic,41.19,59,2029-12-01
+M0959,Glipizide 500mg Tablet,Antidiabetic,36.85,311,2023-11-16
+M0960,Ranitidine 40mg Patch,Antacid,19.57,197,2028-11-25
+M0961,Vitamin D3 40mg Suspension,Supplement,31.45,183,2029-04-06
+M0962,Thiamine 20mg Suspension,Supplement,18.22,469,2027-10-16
+M0963,Omeprazole 25mg Syrup,Antacid,27.72,516,2026-10-14
+M0964,Vitamin D3 25mg Patch,Supplement,49.92,453,2026-12-14
+M0965,Liraglutide 500mg Drops,Antidiabetic,42.32,422,2027-10-30
+M0966,Hydrochlorothiazide 1g Patch,Antihypertensive,11.09,563,2025-11-06
+M0967,Meropenem 250mg Spray,Antibiotic,48.01,0,2023-05-22
+M0968,Pioglitazone 1g Tablet,Antidiabetic,26.12,309,2023-01-27
+M0969,Dapagliflozin 40mg Injection,Antidiabetic,42.86,22,2026-02-04
+M0970,Domperidone 500mg Patch,Antacid,28.75,585,2024-09-25
+M0971,Ranitidine 10mg Spray,Antacid,18.1,141,2025-12-21
+M0972,Meropenem 1g Injection,Antibiotic,12.03,307,2024-01-12
+M0973,Sucralfate 200mg Suspension,Antacid,45.94,79,2026-08-22
+M0974,Lovastatin 250mg Syrup,Statin,24.67,590,2024-01-26
+M0975,Loratadine 50mg Tablet,Antihistamine,36.67,590,2027-04-12
+M0976,Doxycycline 10mg Drops,Antibiotic,17.72,444,2027-09-03
+M0977,Losartan 40mg Suspension,Antihypertensive,46.47,391,2023-08-10
+M0978,Canagliflozin 500mg Tablet,Antidiabetic,16.31,578,2024-09-04
+M0979,Acarbose 500mg Injection,Antidiabetic,8.08,402,2027-12-31
+M0980,Rosuvastatin 1g Suspension,Statin,25.48,227,2027-11-05
+M0981,Empagliflozin 200mg Syrup,Antidiabetic,7.04,84,2028-05-03
+M0982,Sucralfate 10mg Patch,Antacid,20.26,87,2027-06-21
+M0983,Formoterol 200mg Syrup,Bronchodilator,38.22,492,2029-04-09
+M0984,Clonazepam 250mg Gel,Antidepressant,32.79,200,2029-04-17
+M0985,Desloratadine 500mg Injection,Antihistamine,12.49,272,2027-10-28
+M0986,Acarbose 1g Capsule,Antidiabetic,6.07,423,2027-10-01
+M0987,Acarbose 100mg Suspension,Antidiabetic,32.94,312,2024-11-24
+M0988,Cefuroxime 1g Spray,Antibiotic,31.35,451,2023-07-03
+M0989,Spironolactone 40mg Drops,Antihypertensive,8.22,87,2024-04-05
+M0990,Levocetirizine 25mg Cream,Antihistamine,1.18,113,2026-06-03
+M0991,Oseltamivir 250mg Tablet,Antiviral,16.93,550,2025-05-17
+M0992,Zolpidem 500mg Patch,Antidepressant,37.64,561,2028-06-01
+M0993,Levocetirizine 25mg Tablet,Antihistamine,19.14,539,2023-06-28
+M0994,Clopidogrel 25mg Tablet,Analgesic,14.56,277,2023-08-06
+M0995,Lamivudine 10mg Capsule,Antiviral,19.74,277,2027-01-15
+M0996,Omeprazole 10mg Cream,Antacid,43.44,395,2025-08-04
+M0997,Linezolid 500mg Capsule,Antibiotic,45.24,496,2029-09-11
+M0998,Senna 20mg Syrup,Laxative,10.34,468,2029-04-15
+M0999,Magnesium Oxide 10mg Tablet,Supplement,12.75,542,2026-06-02
+M1000,Ceftriaxone 250mg Gel,Antibiotic,37.35,18,2026-11-21

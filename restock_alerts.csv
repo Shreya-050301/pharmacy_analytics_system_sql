@@ -1,0 +1,301 @@
+alert_id,medicine_id,alert_date,note
+1,M0623,2023-09-02,"Expiry near, limited supply remaining"
+2,M0519,2023-07-13,Seasonal demand spike expected
+3,M0935,2024-10-02,Emergency reorder due to demand spike
+4,M0606,2023-03-09,"Expiry near, limited supply remaining"
+5,M0868,2024-04-18,"Expiry near, limited supply remaining"
+6,M0281,2023-01-16,"Critical shortage, contact supplier"
+7,M0250,2023-05-31,Reorder before expiry date approaches
+8,M0801,2024-08-14,Stock fully depleted
+9,M0070,2024-12-31,Emergency reorder due to demand spike
+10,M0752,2023-08-22,Stock fully depleted
+11,M0184,2023-12-18,"Out of stock, urgent reorder required"
+12,M0808,2024-06-30,"Out of stock, urgent reorder required"
+13,M0907,2024-10-12,"Reorder level reached, place order"
+14,M0412,2024-04-10,"Stock critically low, immediate reorder needed"
+15,M0180,2024-01-25,Emergency reorder due to demand spike
+16,M0247,2024-04-17,Emergency reorder due to demand spike
+17,M0267,2024-09-11,"Critical shortage, contact supplier"
+18,M0640,2024-08-04,Seasonal demand spike expected
+19,M0866,2023-06-19,"Out of stock, urgent reorder required"
+20,M0321,2023-07-09,Emergency reorder due to demand spike
+21,M0425,2025-02-18,"Stock running low, reorder advised"
+22,M0265,2023-11-05,Stock fully depleted
+23,M0533,2023-10-13,"Reorder level reached, place order"
+24,M0985,2023-09-12,"Reorder level reached, place order"
+25,M0944,2025-02-03,Stock fully depleted
+26,M0440,2025-02-24,Less than 10 units remaining in store
+27,M0748,2024-07-09,"Expiry near, limited supply remaining"
+28,M0520,2023-04-26,"Critical shortage, contact supplier"
+29,M0996,2023-04-29,"Stock critically low, immediate reorder needed"
+30,M0317,2025-03-12,Reorder before expiry date approaches
+31,M0227,2023-02-17,"Expiry near, limited supply remaining"
+32,M0264,2023-01-25,Emergency reorder due to demand spike
+33,M0725,2024-06-16,Stock below minimum level
+34,M0329,2024-07-29,"Fast moving item, stock low"
+35,M0491,2023-03-29,"Critical shortage, contact supplier"
+36,M0342,2023-11-21,Less than 10 units remaining in store
+37,M0357,2024-08-31,Stock fully depleted
+38,M0676,2025-03-11,Less than 10 units remaining in store
+39,M0058,2025-02-28,Stock fully depleted
+40,M0932,2024-02-02,Less than 10 units remaining in store
+41,M0911,2023-06-20,"Reorder level reached, place order"
+42,M0494,2024-06-27,"Fast moving item, stock low"
+43,M0952,2024-09-16,Stock below minimum level
+44,M0176,2023-12-31,Emergency reorder due to demand spike
+45,M0101,2024-12-05,"Out of stock, urgent reorder required"
+46,M0017,2024-12-31,Less than 10 units remaining in store
+47,M0273,2024-02-04,Reorder before expiry date approaches
+48,M0480,2023-06-22,"Stock critically low, immediate reorder needed"
+49,M0423,2023-07-02,Less than 10 units remaining in store
+50,M0990,2024-02-11,"Expiry near, limited supply remaining"
+51,M0743,2023-01-24,Reorder before expiry date approaches
+52,M0150,2023-07-14,Seasonal demand spike expected
+53,M0521,2023-11-01,"Stock critically low, immediate reorder needed"
+54,M0549,2025-03-26,Stock below minimum level
+55,M0180,2024-09-29,Seasonal demand spike expected
+56,M0353,2024-11-04,Emergency reorder due to demand spike
+57,M0604,2024-08-04,"Fast moving item, stock low"
+58,M0480,2025-02-27,Reorder before expiry date approaches
+59,M0739,2024-04-11,"Reorder level reached, place order"
+60,M0585,2023-07-20,Emergency reorder due to demand spike
+61,M0851,2024-01-03,"Fast moving item, stock low"
+62,M0874,2024-08-15,Seasonal demand spike expected
+63,M0782,2023-12-21,"Stock critically low, immediate reorder needed"
+64,M0578,2024-10-20,"Critical shortage, contact supplier"
+65,M0150,2023-09-18,Less than 10 units remaining in store
+66,M0463,2023-10-03,Stock fully depleted
+67,M0088,2023-03-17,"Stock critically low, immediate reorder needed"
+68,M0491,2024-11-22,Reorder before expiry date approaches
+69,M0401,2024-04-11,Stock below minimum level
+70,M0224,2024-12-28,Safety stock threshold breached
+71,M0436,2023-06-01,Seasonal demand spike expected
+72,M0403,2024-10-30,"Fast moving item, stock low"
+73,M0884,2024-03-17,"Stock critically low, immediate reorder needed"
+74,M0106,2023-06-14,Seasonal demand spike expected
+75,M0971,2024-07-22,"Stock running low, reorder advised"
+76,M0748,2023-06-14,Reorder before expiry date approaches
+77,M0213,2023-02-01,"Reorder level reached, place order"
+78,M0015,2024-07-10,Stock below minimum level
+79,M0371,2024-02-12,Reorder before expiry date approaches
+80,M0033,2025-01-30,Safety stock threshold breached
+81,M0717,2023-05-30,Emergency reorder due to demand spike
+82,M0988,2023-06-20,Stock fully depleted
+83,M0259,2024-10-14,Safety stock threshold breached
+84,M0143,2024-06-07,"Fast moving item, stock low"
+85,M0229,2023-06-25,"Reorder level reached, place order"
+86,M0114,2023-02-10,"Fast moving item, stock low"
+87,M0700,2025-01-03,Safety stock threshold breached
+88,M0538,2023-07-27,"Stock critically low, immediate reorder needed"
+89,M0176,2024-10-13,"Fast moving item, stock low"
+90,M0236,2025-01-03,"Expiry near, limited supply remaining"
+91,M0362,2025-02-19,"Stock running low, reorder advised"
+92,M0558,2023-12-24,"Out of stock, urgent reorder required"
+93,M0189,2023-01-03,"Fast moving item, stock low"
+94,M0137,2023-01-07,"Stock critically low, immediate reorder needed"
+95,M0632,2024-04-04,"Critical shortage, contact supplier"
+96,M0024,2024-07-17,"Stock running low, reorder advised"
+97,M0142,2024-07-11,"Fast moving item, stock low"
+98,M0260,2024-11-20,"Stock critically low, immediate reorder needed"
+99,M0448,2024-11-29,Less than 10 units remaining in store
+100,M0165,2024-05-16,Emergency reorder due to demand spike
+101,M0715,2024-03-16,"Reorder level reached, place order"
+102,M0910,2023-08-03,Stock fully depleted
+103,M0406,2023-12-01,"Stock critically low, immediate reorder needed"
+104,M0161,2024-10-01,Less than 10 units remaining in store
+105,M0749,2023-12-02,Seasonal demand spike expected
+106,M0340,2023-04-04,Stock fully depleted
+107,M0727,2023-01-20,Stock below minimum level
+108,M0980,2024-01-08,"Stock critically low, immediate reorder needed"
+109,M0034,2024-06-09,"Stock critically low, immediate reorder needed"
+110,M0634,2023-11-07,Less than 10 units remaining in store
+111,M0551,2025-02-26,"Stock running low, reorder advised"
+112,M0728,2023-05-12,"Out of stock, urgent reorder required"
+113,M0440,2023-06-27,Reorder before expiry date approaches
+114,M0707,2023-02-18,Stock below minimum level
+115,M0215,2024-03-04,Stock below minimum level
+116,M0463,2023-05-18,"Out of stock, urgent reorder required"
+117,M0247,2023-11-26,Stock below minimum level
+118,M0158,2025-02-02,Stock fully depleted
+119,M0542,2023-08-25,Stock below minimum level
+120,M0723,2023-07-14,Stock fully depleted
+121,M0279,2024-11-30,"Out of stock, urgent reorder required"
+122,M0899,2024-10-17,"Stock running low, reorder advised"
+123,M0203,2024-04-12,Seasonal demand spike expected
+124,M0827,2023-07-29,Emergency reorder due to demand spike
+125,M0118,2024-03-21,"Reorder level reached, place order"
+126,M0587,2023-05-25,"Critical shortage, contact supplier"
+127,M0980,2024-07-27,Stock below minimum level
+128,M0886,2024-09-12,"Stock critically low, immediate reorder needed"
+129,M0893,2024-03-01,Less than 10 units remaining in store
+130,M0406,2023-08-15,"Stock critically low, immediate reorder needed"
+131,M0433,2025-03-14,"Expiry near, limited supply remaining"
+132,M0627,2024-01-30,"Critical shortage, contact supplier"
+133,M0572,2024-04-27,Less than 10 units remaining in store
+134,M0693,2023-11-09,Stock below minimum level
+135,M0255,2023-07-31,"Critical shortage, contact supplier"
+136,M0002,2023-09-18,Seasonal demand spike expected
+137,M0286,2023-09-16,"Stock critically low, immediate reorder needed"
+138,M0966,2023-01-20,"Expiry near, limited supply remaining"
+139,M0102,2024-03-22,"Expiry near, limited supply remaining"
+140,M0271,2024-08-17,"Fast moving item, stock low"
+141,M0005,2023-02-01,Stock fully depleted
+142,M0560,2023-10-22,"Stock running low, reorder advised"
+143,M0808,2025-01-22,Seasonal demand spike expected
+144,M0566,2023-01-29,"Stock critically low, immediate reorder needed"
+145,M0338,2025-01-16,Stock fully depleted
+146,M0098,2024-05-16,"Expiry near, limited supply remaining"
+147,M0307,2023-05-27,Emergency reorder due to demand spike
+148,M0969,2024-02-27,"Critical shortage, contact supplier"
+149,M0710,2023-06-24,Safety stock threshold breached
+150,M0004,2024-08-23,"Out of stock, urgent reorder required"
+151,M0303,2023-04-09,"Stock critically low, immediate reorder needed"
+152,M0368,2023-01-07,Seasonal demand spike expected
+153,M0838,2023-01-19,Stock fully depleted
+154,M0625,2024-02-22,Emergency reorder due to demand spike
+155,M0587,2024-12-23,"Expiry near, limited supply remaining"
+156,M0102,2025-01-18,Less than 10 units remaining in store
+157,M0792,2023-07-19,"Stock critically low, immediate reorder needed"
+158,M0338,2023-06-16,Less than 10 units remaining in store
+159,M0340,2024-01-17,"Out of stock, urgent reorder required"
+160,M0715,2023-09-08,Less than 10 units remaining in store
+161,M0167,2023-05-17,Stock fully depleted
+162,M0813,2024-07-19,Stock below minimum level
+163,M0333,2024-05-30,"Critical shortage, contact supplier"
+164,M0562,2023-07-17,"Fast moving item, stock low"
+165,M0664,2024-03-31,Stock fully depleted
+166,M0312,2023-08-29,Seasonal demand spike expected
+167,M0944,2023-10-05,Less than 10 units remaining in store
+168,M0059,2024-12-17,"Critical shortage, contact supplier"
+169,M0731,2023-11-10,"Fast moving item, stock low"
+170,M0415,2023-06-28,Seasonal demand spike expected
+171,M0765,2024-11-23,Reorder before expiry date approaches
+172,M0611,2024-01-08,Stock below minimum level
+173,M0791,2023-04-20,"Stock critically low, immediate reorder needed"
+174,M0119,2023-12-04,"Reorder level reached, place order"
+175,M0163,2023-11-29,Seasonal demand spike expected
+176,M0519,2024-12-03,"Expiry near, limited supply remaining"
+177,M0855,2023-07-05,"Fast moving item, stock low"
+178,M0457,2024-12-22,Safety stock threshold breached
+179,M0566,2024-07-05,"Out of stock, urgent reorder required"
+180,M0412,2023-02-11,Reorder before expiry date approaches
+181,M0085,2024-03-31,"Stock running low, reorder advised"
+182,M0545,2024-08-24,Stock below minimum level
+183,M0993,2023-09-01,Stock below minimum level
+184,M0261,2024-01-03,"Reorder level reached, place order"
+185,M0925,2024-06-30,"Reorder level reached, place order"
+186,M0520,2023-01-08,Less than 10 units remaining in store
+187,M0778,2024-08-30,"Fast moving item, stock low"
+188,M0121,2024-07-10,"Expiry near, limited supply remaining"
+189,M0070,2025-03-29,"Critical shortage, contact supplier"
+190,M0864,2023-11-13,"Critical shortage, contact supplier"
+191,M0923,2023-05-15,"Out of stock, urgent reorder required"
+192,M0624,2023-08-14,Seasonal demand spike expected
+193,M0981,2024-12-20,Seasonal demand spike expected
+194,M0983,2024-12-09,"Reorder level reached, place order"
+195,M0303,2024-11-07,Less than 10 units remaining in store
+196,M0374,2024-09-02,"Out of stock, urgent reorder required"
+197,M0047,2023-11-30,Less than 10 units remaining in store
+198,M0813,2023-12-28,Emergency reorder due to demand spike
+199,M0417,2024-03-29,Seasonal demand spike expected
+200,M0456,2024-05-22,Emergency reorder due to demand spike
+201,M0622,2023-04-01,"Stock critically low, immediate reorder needed"
+202,M0697,2023-07-12,"Reorder level reached, place order"
+203,M0460,2024-08-29,"Reorder level reached, place order"
+204,M0562,2023-08-17,Stock below minimum level
+205,M0726,2023-11-09,"Reorder level reached, place order"
+206,M0340,2024-04-23,"Expiry near, limited supply remaining"
+207,M0995,2023-05-27,"Fast moving item, stock low"
+208,M0896,2023-09-14,Seasonal demand spike expected
+209,M0786,2024-11-30,"Stock critically low, immediate reorder needed"
+210,M0090,2024-02-03,Stock below minimum level
+211,M0563,2024-08-06,"Critical shortage, contact supplier"
+212,M0366,2024-06-27,Emergency reorder due to demand spike
+213,M0476,2023-02-09,"Reorder level reached, place order"
+214,M0775,2023-04-22,Seasonal demand spike expected
+215,M0676,2023-06-21,"Out of stock, urgent reorder required"
+216,M0120,2025-03-06,Reorder before expiry date approaches
+217,M0207,2024-01-24,Less than 10 units remaining in store
+218,M0535,2024-09-01,"Reorder level reached, place order"
+219,M0385,2023-03-04,Stock below minimum level
+220,M0938,2024-06-10,Reorder before expiry date approaches
+221,M0279,2024-04-14,"Expiry near, limited supply remaining"
+222,M0698,2025-02-05,"Stock critically low, immediate reorder needed"
+223,M0134,2024-11-18,Safety stock threshold breached
+224,M0651,2024-08-14,Safety stock threshold breached
+225,M0601,2024-09-24,Less than 10 units remaining in store
+226,M0233,2023-01-08,Stock fully depleted
+227,M0943,2024-05-22,"Stock running low, reorder advised"
+228,M0400,2023-04-19,Less than 10 units remaining in store
+229,M0120,2025-02-04,Reorder before expiry date approaches
+230,M0749,2024-08-08,Emergency reorder due to demand spike
+231,M0774,2024-10-16,"Fast moving item, stock low"
+232,M0592,2024-08-31,"Out of stock, urgent reorder required"
+233,M0478,2023-04-18,Stock fully depleted
+234,M0929,2023-12-03,Less than 10 units remaining in store
+235,M0404,2023-02-19,"Reorder level reached, place order"
+236,M0877,2023-08-14,Reorder before expiry date approaches
+237,M0534,2024-11-24,"Fast moving item, stock low"
+238,M0767,2024-07-07,Safety stock threshold breached
+239,M0693,2023-12-28,"Critical shortage, contact supplier"
+240,M0150,2024-06-09,Seasonal demand spike expected
+241,M0752,2024-10-20,Safety stock threshold breached
+242,M0882,2024-09-21,Safety stock threshold breached
+243,M0407,2024-06-08,Stock fully depleted
+244,M0108,2024-07-13,"Reorder level reached, place order"
+245,M0786,2023-09-22,"Reorder level reached, place order"
+246,M0241,2024-08-12,"Fast moving item, stock low"
+247,M0406,2024-12-14,Reorder before expiry date approaches
+248,M0053,2024-12-29,Emergency reorder due to demand spike
+249,M0009,2024-10-22,Stock below minimum level
+250,M0482,2023-08-31,"Fast moving item, stock low"
+251,M0602,2023-10-19,Emergency reorder due to demand spike
+252,M0597,2024-09-18,"Critical shortage, contact supplier"
+253,M0802,2025-01-15,Stock fully depleted
+254,M0844,2023-11-01,"Reorder level reached, place order"
+255,M0284,2023-11-17,"Fast moving item, stock low"
+256,M0701,2024-10-19,Stock fully depleted
+257,M0259,2025-03-30,"Stock running low, reorder advised"
+258,M0284,2023-04-23,"Critical shortage, contact supplier"
+259,M0987,2023-02-14,"Fast moving item, stock low"
+260,M0413,2024-08-18,"Critical shortage, contact supplier"
+261,M0175,2025-01-31,"Expiry near, limited supply remaining"
+262,M0139,2024-01-30,Stock fully depleted
+263,M0790,2023-12-18,"Stock running low, reorder advised"
+264,M0670,2023-08-26,"Stock running low, reorder advised"
+265,M0788,2024-04-07,"Critical shortage, contact supplier"
+266,M0364,2024-08-04,"Stock critically low, immediate reorder needed"
+267,M0706,2024-02-05,Stock below minimum level
+268,M0960,2025-03-30,Less than 10 units remaining in store
+269,M0266,2023-09-13,Seasonal demand spike expected
+270,M0594,2024-10-29,Safety stock threshold breached
+271,M0215,2024-09-17,Safety stock threshold breached
+272,M0338,2024-10-03,Stock fully depleted
+273,M0728,2024-08-04,Less than 10 units remaining in store
+274,M0056,2024-04-18,"Reorder level reached, place order"
+275,M0621,2024-12-21,"Reorder level reached, place order"
+276,M0587,2024-03-15,Seasonal demand spike expected
+277,M0519,2023-11-18,"Fast moving item, stock low"
+278,M0520,2025-02-13,Reorder before expiry date approaches
+279,M0945,2024-11-19,"Fast moving item, stock low"
+280,M0338,2024-03-02,Stock fully depleted
+281,M0817,2024-07-19,"Stock critically low, immediate reorder needed"
+282,M0388,2024-05-03,Safety stock threshold breached
+283,M0317,2023-08-12,"Stock running low, reorder advised"
+284,M0694,2023-02-09,"Fast moving item, stock low"
+285,M0862,2024-12-11,Reorder before expiry date approaches
+286,M0059,2024-03-29,Stock fully depleted
+287,M0687,2023-04-11,"Reorder level reached, place order"
+288,M0704,2024-04-22,"Fast moving item, stock low"
+289,M0981,2024-02-02,"Stock critically low, immediate reorder needed"
+290,M0902,2024-12-03,Stock fully depleted
+291,M0881,2023-07-17,Seasonal demand spike expected
+292,M0674,2023-01-27,Stock fully depleted
+293,M0642,2023-01-03,"Fast moving item, stock low"
+294,M0521,2024-07-01,Reorder before expiry date approaches
+295,M0398,2024-08-20,"Out of stock, urgent reorder required"
+296,M0153,2023-07-15,Reorder before expiry date approaches
+297,M0733,2024-12-29,Safety stock threshold breached
+298,M0330,2023-10-17,Stock below minimum level
+299,M0242,2023-07-13,"Expiry near, limited supply remaining"
+300,M0596,2024-08-24,Emergency reorder due to demand spike

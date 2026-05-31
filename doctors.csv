@@ -1,0 +1,501 @@
+doctor_id,name,specialization,hospital_name
+D101,Dr. Sameer Chakraborty,Nephrology,Rainbow Clinic
+D102,Dr. Komal Pandey,Urology,JIPMER Puducherry
+D103,Dr. Santosh Kadam,Oncology,Wockhardt Hospital
+D104,Dr. Pankaj Verma,Endocrinology,PGI Chandigarh
+D105,Dr. Gaurav Dwivedi,Dermatology,Sunshine Hospital
+D106,Dr. Manoj Das,Pathology,Manipal Hospital
+D107,Dr. Jyoti Pandey,Cardiology,Aakash Healthcare
+D108,Dr. Neha Bisht,Neurology,Lilavati Hospital
+D109,Dr. Meera Jadhav,Cardiology,CMC Vellore
+D110,Dr. Neha Chowdary,Urology,Narayana Health
+D111,Dr. Anjali Iyer,Orthopedics,Aakash Healthcare
+D112,Dr. Arjun Srivastava,Radiology,BLK Hospital
+D113,Dr. Priya Narayanan,Pulmonology,Lilavati Hospital
+D114,Dr. Smita Kapoor,Nephrology,NIMHANS Bengaluru
+D115,Dr. Usha Pathak,Gynecology,Global Hospital
+D116,Dr. Sanjay Dixit,Pulmonology,Fortis Hospital
+D117,Dr. Neha Dixit,Gastroenterology,Nair Hospital
+D118,Dr. Hemant Prasad,Radiology,PGI Chandigarh
+D119,Dr. Divya Desai,Endocrinology,Hinduja Hospital
+D120,Dr. Nikhil Arora,Endocrinology,KEM Hospital
+D121,Dr. Lalita Oberoi,Rheumatology,Jupiter Hospital
+D122,Dr. Arvind Verma,Rheumatology,Medanta Hospital
+D123,Dr. Prakash Sethi,Orthopedics,Aakash Healthcare
+D124,Dr. Deepa Chauhan,Urology,City Care Hospital
+D125,Dr. Naveen Patil,Radiology,Care Hospital
+D126,Dr. Rupa Dwivedi,Rheumatology,Narayana Health
+D127,Dr. Swati Iyer,Cardiology,Sunshine Hospital
+D128,Dr. Shyam Kadam,Anesthesiology,BLK Hospital
+D129,Dr. Santosh Solanki,Nephrology,BLK Hospital
+D130,Dr. Ajay Bhatia,Neurology,Rainbow Clinic
+D131,Dr. Arun Roy,Pathology,Hinduja Hospital
+D132,Dr. Sunita Agarwal,Dermatology,SGPGI Lucknow
+D133,Dr. Dhruv Kumar,Pathology,Nair Hospital
+D134,Dr. Rahul Patil,ENT,NIMHANS Bengaluru
+D135,Dr. Rohit Kulkarni,Anesthesiology,BLK Hospital
+D136,Dr. Pramod Bose,General Medicine,Global Hospital
+D137,Dr. Seema Dwivedi,Pathology,Wockhardt Hospital
+D138,Dr. Amita Jain,Orthopedics,CMC Vellore
+D139,Dr. Rupali Chakraborty,Oncology,Apollo Clinic
+D140,Dr. Sheela Mehta,Pulmonology,Rainbow Clinic
+D141,Dr. Ramesh Nair,Pathology,Sunshine Hospital
+D142,Dr. Kamla Venkatesh,Radiology,Nair Hospital
+D143,Dr. Rajan Patil,Neurology,Medanta Hospital
+D144,Dr. Ashok Goyal,Rheumatology,Yashoda Hospital
+D145,Dr. Rajesh Mukherjee,Ophthalmology,Narayana Health
+D146,Dr. Ajay Gupta,Oncology,Kokilaben Hospital
+D147,Dr. Poonam Babu,Gastroenterology,Max Healthcare
+D148,Dr. Bharat Khanna,Urology,Skin Glow Clinic
+D149,Dr. Kapil Mishra,General Medicine,Lilavati Hospital
+D150,Dr. Bharat Mehta,Anesthesiology,Sharda Hospital
+D151,Dr. Pradeep Shinde,Rheumatology,Wockhardt Hospital
+D152,Dr. Yogesh Chatterjee,Pathology,Venkateshwar Hospital
+D153,Dr. Sneha Singh,Ophthalmology,Narayana Health
+D154,Dr. Nilesh More,Rheumatology,Nair Hospital
+D155,Dr. Ashok Khanna,Cardiology,NIMHANS Bengaluru
+D156,Dr. Seema Chowdary,Gastroenterology,Medanta Hospital
+D157,Dr. Smita Rajan,Ophthalmology,Sharda Hospital
+D158,Dr. Suresh Reddy,ENT,City Care Hospital
+D159,Dr. Smita Sharma,Pediatrics,BLK Hospital
+D160,Dr. Shyam Malhotra,Psychiatry,Breach Candy Hospital
+D161,Dr. Mohit Krishnan,Endocrinology,Skin Glow Clinic
+D162,Dr. Suresh Solanki,Nephrology,Ruby Hall Clinic
+D163,Dr. Sanjay Bhatt,Radiology,Manipal Hospital
+D164,Dr. Anita Anand,Pathology,PGI Chandigarh
+D165,Dr. Sandeep Sen,General Medicine,Venkateshwar Hospital
+D166,Dr. Nisha Sethi,Oncology,Metro Hospital
+D167,Dr. Hemant Kumar,Urology,Aakash Healthcare
+D168,Dr. Manju Kulkarni,Pediatrics,Yashoda Hospital
+D169,Dr. Anjali Pathak,Endocrinology,Nair Hospital
+D170,Dr. Kalpana Upadhyay,Rheumatology,Dharamshila Hospital
+D171,Dr. Vijay Jain,Cardiology,Fortis Hospital
+D172,Dr. Rakesh Srivastava,Dermatology,Ruby Hall Clinic
+D173,Dr. Anjali Roy,Anesthesiology,Manipal Hospital
+D174,Dr. Rohit Naidu,Orthopedics,Yashoda Hospital
+D175,Dr. Neeraj Solanki,Nephrology,Care Hospital
+D176,Dr. Ramesh Mane,Dermatology,Wockhardt Hospital
+D177,Dr. Nikhil Bansal,Oncology,Lilavati Hospital
+D178,Dr. Saroj Sharma,Gynecology,Fortis Hospital
+D179,Dr. Arjun Patil,Gastroenterology,Skin Glow Clinic
+D180,Dr. Pallavi Shinde,Rheumatology,KEM Hospital
+D181,Dr. Ashok Awasthi,Ophthalmology,Ruby Hall Clinic
+D182,Dr. Shyam Thakur,Gastroenterology,Jupiter Hospital
+D183,Dr. Lata Dixit,Rheumatology,Care Hospital
+D184,Dr. Anita Verma,Rheumatology,Ruby Hall Clinic
+D185,Dr. Rekha Jain,Anesthesiology,Sahyadri Hospital
+D186,Dr. Madhavi Prasad,Pathology,Osmed Hospital
+D187,Dr. Neeraj Chauhan,Dermatology,AIIMS Delhi
+D188,Dr. Savita Kadam,Psychiatry,Jupiter Hospital
+D189,Dr. Pradeep Chopra,General Medicine,Hinduja Hospital
+D190,Dr. Kiran Pawar,Pulmonology,CMC Vellore
+D191,Dr. Meena Menon,Pulmonology,Jupiter Hospital
+D192,Dr. Dhruv Anand,Urology,Medanta Hospital
+D193,Dr. Trupti Ghosh,Anesthesiology,Columbia Asia
+D194,Dr. Dhruv Kadam,Oncology,Venkateshwar Hospital
+D195,Dr. Lalita Ghosh,Urology,AIIMS Delhi
+D196,Dr. Arvind Bansal,Dermatology,AIIMS Delhi
+D197,Dr. Prakash Soni,Pathology,Jupiter Hospital
+D198,Dr. Arvind Rao,Endocrinology,Ruby Hall Clinic
+D199,Dr. Vijay Goyal,Ophthalmology,Rainbow Clinic
+D200,Dr. Meera Mishra,Neurology,Amrita Hospital
+D201,Dr. Komal Narayanan,Urology,AIIMS Delhi
+D202,Dr. Priya Kumar,Anesthesiology,City Care Hospital
+D203,Dr. Shyam Awasthi,Gynecology,Yashoda Hospital
+D204,Dr. Gaurav Shah,Psychiatry,Sassoon Hospital
+D205,Dr. Neeraj Khanna,Endocrinology,Breach Candy Hospital
+D206,Dr. Meena Mehta,Pathology,Medanta Hospital
+D207,Dr. Rakesh Shinde,Pulmonology,AIIMS Delhi
+D208,Dr. Harish Bisht,Anesthesiology,Nair Hospital
+D209,Dr. Nisha Nambiar,Gastroenterology,Sassoon Hospital
+D210,Dr. Kavita Jain,Pulmonology,Sunshine Hospital
+D211,Dr. Sneha Sharma,Oncology,Medanta Hospital
+D212,Dr. Santosh Saxena,Psychiatry,Breach Candy Hospital
+D213,Dr. Ramesh Banerjee,Orthopedics,Breach Candy Hospital
+D214,Dr. Geeta Dwivedi,Endocrinology,City Care Hospital
+D215,Dr. Sheela Menon,ENT,Care Hospital
+D216,Dr. Arvind Narayanan,Ophthalmology,Columbia Asia
+D217,Dr. Madhavi Negi,Neurology,Hinduja Hospital
+D218,Dr. Vivek Pawar,Dermatology,Sahyadri Hospital
+D219,Dr. Meena Sethi,Pathology,Manipal Hospital
+D220,Dr. Ajay Mishra,Neurology,Aster Hospital
+D221,Dr. Deepa Patel,Oncology,Sharda Hospital
+D222,Dr. Lata Varma,Anesthesiology,City Care Hospital
+D223,Dr. Sunil Shinde,Psychiatry,Hinduja Hospital
+D224,Dr. Varsha Soni,Neurology,Yashoda Hospital
+D225,Dr. Rohit Tomar,Pediatrics,Aakash Healthcare
+D226,Dr. Swati Varma,Cardiology,Care Hospital
+D227,Dr. Arvind Reddy,Psychiatry,Skin Glow Clinic
+D228,Dr. Nilesh Thakur,Gynecology,JIPMER Puducherry
+D229,Dr. Sameer Malhotra,Radiology,PGI Chandigarh
+D230,Dr. Vijay More,ENT,Metro Hospital
+D231,Dr. Vandana Deshpande,Rheumatology,CMC Vellore
+D232,Dr. Saroj Kadam,Psychiatry,Wockhardt Hospital
+D233,Dr. Divya Mishra,Ophthalmology,Ruby Hall Clinic
+D234,Dr. Rupali Soni,Orthopedics,Wockhardt Hospital
+D235,Dr. Umesh Verma,Ophthalmology,Sharda Hospital
+D236,Dr. Swati Chowdary,Orthopedics,Osmed Hospital
+D237,Dr. Kavita Malhotra,Pathology,Sahyadri Hospital
+D238,Dr. Harish Joshi,Radiology,Sahyadri Hospital
+D239,Dr. Harish Gill,ENT,Kokilaben Hospital
+D240,Dr. Vandana Rawat,ENT,Max Healthcare
+D241,Dr. Vivek Roy,Psychiatry,Columbia Asia
+D242,Dr. Dhruv Shah,Pediatrics,Lilavati Hospital
+D243,Dr. Rajan Dixit,Ophthalmology,Wockhardt Hospital
+D244,Dr. Amita Krishnan,Anesthesiology,Amrita Hospital
+D245,Dr. Madhuri Khanna,Oncology,Sharda Hospital
+D246,Dr. Rajan Kumar,Cardiology,PGI Chandigarh
+D247,Dr. Neha Chaudhary,Pediatrics,Global Hospital
+D248,Dr. Meena Deshpande,ENT,Kokilaben Hospital
+D249,Dr. Vandana Yadav,Oncology,Manipal Hospital
+D250,Dr. Gaurav Chakraborty,Rheumatology,Apollo Clinic
+D251,Dr. Hemlata Singh,Oncology,Kokilaben Hospital
+D252,Dr. Pradeep Roy,Cardiology,PGI Chandigarh
+D253,Dr. Hemant Subramaniam,Anesthesiology,Lilavati Hospital
+D254,Dr. Prakash Srivastava,Pathology,KEM Hospital
+D255,Dr. Meena Rajan,Urology,CMC Vellore
+D256,Dr. Dinesh More,General Medicine,Amrita Hospital
+D257,Dr. Rajiv Chauhan,Nephrology,Manipal Hospital
+D258,Dr. Rupa Dixit,Rheumatology,Kokilaben Hospital
+D259,Dr. Sunita Pandey,Anesthesiology,SGPGI Lucknow
+D260,Dr. Dipika Srivastava,Rheumatology,City Care Hospital
+D261,Dr. Rajesh Oberoi,Gynecology,BLK Hospital
+D262,Dr. Madhavi Bose,Pathology,Sahyadri Hospital
+D263,Dr. Ashok Chatterjee,Oncology,Narayana Health
+D264,Dr. Girish Dey,Gastroenterology,Nair Hospital
+D265,Dr. Santosh Bansal,Oncology,Nair Hospital
+D266,Dr. Hemlata Malhotra,Urology,Columbia Asia
+D267,Dr. Vijay Verma,Gynecology,PGI Chandigarh
+D268,Dr. Neeraj Shinde,Ophthalmology,Care Hospital
+D269,Dr. Anita Shukla,Gynecology,JIPMER Puducherry
+D270,Dr. Sunita Gill,Psychiatry,Columbia Asia
+D271,Dr. Neeraj Rajput,Rheumatology,Manipal Hospital
+D272,Dr. Varsha Shah,Orthopedics,KEM Hospital
+D273,Dr. Rahul Sen,General Medicine,Global Hospital
+D274,Dr. Dhruv Shinde,Psychiatry,Breach Candy Hospital
+D275,Dr. Hemlata Sethi,Oncology,Medanta Hospital
+D276,Dr. Bharat More,Orthopedics,Skin Glow Clinic
+D277,Dr. Bhavna Dwivedi,Nephrology,Columbia Asia
+D278,Dr. Kiran Dixit,Cardiology,Venkateshwar Hospital
+D279,Dr. Vandana Shah,Gastroenterology,PGI Chandigarh
+D280,Dr. Anita Vyas,Orthopedics,Kokilaben Hospital
+D281,Dr. Rajesh Sen,Cardiology,Hinduja Hospital
+D282,Dr. Archana Khanna,Neurology,Columbia Asia
+D283,Dr. Rajan Sethi,Psychiatry,Columbia Asia
+D284,Dr. Usha Babu,Gastroenterology,Sassoon Hospital
+D285,Dr. Sudha Chauhan,Oncology,Fortis Hospital
+D286,Dr. Suresh Tiwari,Urology,SGPGI Lucknow
+D287,Dr. Archana Chakraborty,Neurology,CMC Vellore
+D288,Dr. Meera Jain,Dermatology,Global Hospital
+D289,Dr. Anjali Nair,Orthopedics,Kokilaben Hospital
+D290,Dr. Vijay Thakur,Endocrinology,Medanta Hospital
+D291,Dr. Pramod Singh,Orthopedics,SGPGI Lucknow
+D292,Dr. Ajay Mehta,Orthopedics,Global Hospital
+D293,Dr. Manju Banerjee,Psychiatry,Breach Candy Hospital
+D294,Dr. Madhavi Chaudhary,Pathology,BLK Hospital
+D295,Dr. Santosh Roy,Gynecology,Hinduja Hospital
+D296,Dr. Amit Tomar,Gynecology,Breach Candy Hospital
+D297,Dr. Smita Ghosh,Urology,Yashoda Hospital
+D298,Dr. Kapil Patel,Dermatology,Columbia Asia
+D299,Dr. Savita Patel,Gastroenterology,Aster Hospital
+D300,Dr. Bhavna Krishnan,Gastroenterology,Venkateshwar Hospital
+D301,Dr. Arvind Prasad,Urology,Dharamshila Hospital
+D302,Dr. Sunil Thakur,Anesthesiology,Aakash Healthcare
+D303,Dr. Anita Saxena,Nephrology,City Care Hospital
+D304,Dr. Sachin Krishnan,Endocrinology,Metro Hospital
+D305,Dr. Hemlata Nambiar,Nephrology,Aster Hospital
+D306,Dr. Meera Malhotra,Dermatology,Sharda Hospital
+D307,Dr. Rahul Vyas,Gynecology,Rainbow Clinic
+D308,Dr. Usha Desai,Neurology,Lilavati Hospital
+D309,Dr. Archana Sharma,Gynecology,Jupiter Hospital
+D310,Dr. Sunil Rawat,Pulmonology,Rainbow Clinic
+D311,Dr. Ravi Deshpande,Gastroenterology,Dharamshila Hospital
+D312,Dr. Hemlata Chopra,Endocrinology,Global Hospital
+D313,Dr. Bhavna Menon,Radiology,JIPMER Puducherry
+D314,Dr. Saroj Bose,Neurology,Lilavati Hospital
+D315,Dr. Pradeep Venkatesh,Pathology,Nair Hospital
+D316,Dr. Meena Bhatt,Rheumatology,Sahyadri Hospital
+D317,Dr. Dinesh Khanna,Cardiology,Skin Glow Clinic
+D318,Dr. Prakash Mehta,Ophthalmology,Medanta Hospital
+D319,Dr. Madhuri Chakraborty,Gastroenterology,Breach Candy Hospital
+D320,Dr. Kamla Sen,Anesthesiology,Breach Candy Hospital
+D321,Dr. Nisha Desai,Pediatrics,Sunshine Hospital
+D322,Dr. Sandeep Ghosh,Oncology,Wockhardt Hospital
+D323,Dr. Dhruv Subramaniam,Gynecology,NIMHANS Bengaluru
+D324,Dr. Rajiv Srivastava,Anesthesiology,Sunshine Hospital
+D325,Dr. Sudha Tripathi,Pediatrics,Fortis Hospital
+D326,Dr. Meena Mishra,Pediatrics,Care Hospital
+D327,Dr. Tarun Patel,Gynecology,PGI Chandigarh
+D328,Dr. Shaila Raju,Pulmonology,Venkateshwar Hospital
+D329,Dr. Santosh Gill,Urology,Manipal Hospital
+D330,Dr. Arvind Roy,Oncology,Max Healthcare
+D331,Dr. Renuka Pandey,ENT,Global Hospital
+D332,Dr. Rajan Rajan,Nephrology,AIIMS Delhi
+D333,Dr. Vikram Goyal,Dermatology,Amrita Hospital
+D334,Dr. Saroj Gupta,Urology,CMC Vellore
+D335,Dr. Saroj More,Neurology,JIPMER Puducherry
+D336,Dr. Alok Kadam,ENT,Venkateshwar Hospital
+D337,Dr. Manish Banerjee,Ophthalmology,Global Hospital
+D338,Dr. Sheela Murthy,Anesthesiology,PGI Chandigarh
+D339,Dr. Varsha Dwivedi,Gynecology,JIPMER Puducherry
+D340,Dr. Rohit Sethi,Psychiatry,Jupiter Hospital
+D341,Dr. Bharat Chatterjee,General Medicine,Max Healthcare
+D342,Dr. Vikram Kapoor,ENT,Global Hospital
+D343,Dr. Rajan Yadav,Pulmonology,Venkateshwar Hospital
+D344,Dr. Ramesh Ghosh,Neurology,Narayana Health
+D345,Dr. Gaurav Shukla,Gastroenterology,Sharda Hospital
+D346,Dr. Umesh Chaudhary,Ophthalmology,Sharda Hospital
+D347,Dr. Shalini Dwivedi,Pulmonology,Care Hospital
+D348,Dr. Deepa Naidu,Neurology,Ruby Hall Clinic
+D349,Dr. Poonam Negi,Gynecology,NIMHANS Bengaluru
+D350,Dr. Pankaj Trivedi,General Medicine,Max Healthcare
+D351,Dr. Vijay Dwivedi,Cardiology,BLK Hospital
+D352,Dr. Yogesh Prasad,Nephrology,Aakash Healthcare
+D353,Dr. Amita Shinde,Oncology,Metro Hospital
+D354,Dr. Swati Reddy,Psychiatry,Metro Hospital
+D355,Dr. Pradeep Goyal,Psychiatry,Yashoda Hospital
+D356,Dr. Vinod Shah,General Medicine,CMC Vellore
+D357,Dr. Ashok Chopra,Nephrology,Osmed Hospital
+D358,Dr. Varsha Patil,Psychiatry,Global Hospital
+D359,Dr. Rakesh Chauhan,Radiology,KEM Hospital
+D360,Dr. Nilesh Roy,Urology,CMC Vellore
+D361,Dr. Sheela Jadhav,Gastroenterology,Skin Glow Clinic
+D362,Dr. Meera Tiwari,ENT,CMC Vellore
+D363,Dr. Sachin Garg,ENT,JIPMER Puducherry
+D364,Dr. Nisha Venkatesh,Cardiology,PGI Chandigarh
+D365,Dr. Shalini Pawar,Orthopedics,Nair Hospital
+D366,Dr. Pradeep Sethi,ENT,CMC Vellore
+D367,Dr. Pooja Awasthi,Rheumatology,SGPGI Lucknow
+D368,Dr. Meena Varma,Neurology,Skin Glow Clinic
+D369,Dr. Vikram Shukla,Nephrology,Sahyadri Hospital
+D370,Dr. Rekha More,Rheumatology,Venkateshwar Hospital
+D371,Dr. Rekha Deshpande,Dermatology,Care Hospital
+D372,Dr. Neeraj Vyas,ENT,Narayana Health
+D373,Dr. Santosh Mehta,Anesthesiology,Care Hospital
+D374,Dr. Alok Goyal,Rheumatology,Sassoon Hospital
+D375,Dr. Amita Rao,Nephrology,Rainbow Clinic
+D376,Dr. Deepa Banerjee,Endocrinology,CMC Vellore
+D377,Dr. Manish Oberoi,Urology,City Care Hospital
+D378,Dr. Sandeep Mukherjee,Pathology,Sunshine Hospital
+D379,Dr. Prakash More,General Medicine,City Care Hospital
+D380,Dr. Rajesh Tomar,Ophthalmology,Global Hospital
+D381,Dr. Manju Mane,Nephrology,AIIMS Delhi
+D382,Dr. Rahul Das,Gynecology,Hinduja Hospital
+D383,Dr. Trupti Soni,Anesthesiology,Global Hospital
+D384,Dr. Sunil Chakraborty,Radiology,Sharda Hospital
+D385,Dr. Swati Singh,Neurology,CMC Vellore
+D386,Dr. Sandeep Krishnan,Pulmonology,CMC Vellore
+D387,Dr. Jyoti Upadhyay,Dermatology,Kokilaben Hospital
+D388,Dr. Kalpana Warrier,Dermatology,Lilavati Hospital
+D389,Dr. Nisha Negi,Urology,Narayana Health
+D390,Dr. Manish Krishnan,Cardiology,Rainbow Clinic
+D391,Dr. Meera Garg,Radiology,NIMHANS Bengaluru
+D392,Dr. Madhuri Babu,Pediatrics,Max Healthcare
+D393,Dr. Usha Vyas,Radiology,Aster Hospital
+D394,Dr. Sheela Kadam,ENT,Global Hospital
+D395,Dr. Kiran Shinde,Gastroenterology,Hinduja Hospital
+D396,Dr. Nikhil Subramaniam,Neurology,Kokilaben Hospital
+D397,Dr. Anjali Arora,Urology,Medanta Hospital
+D398,Dr. Nilesh Oberoi,Nephrology,Sahyadri Hospital
+D399,Dr. Divya Rao,Ophthalmology,Lilavati Hospital
+D400,Dr. Hemant Chauhan,Pulmonology,Rainbow Clinic
+D401,Dr. Sandeep Chopra,Dermatology,Venkateshwar Hospital
+D402,Dr. Divya Venkatesh,Cardiology,Sunshine Hospital
+D403,Dr. Lata Chakraborty,General Medicine,Venkateshwar Hospital
+D404,Dr. Usha Singh,Neurology,Sunshine Hospital
+D405,Dr. Dhruv Dixit,Pediatrics,Venkateshwar Hospital
+D406,Dr. Sandeep Tomar,Rheumatology,Aakash Healthcare
+D407,Dr. Hemlata Murthy,Neurology,Lilavati Hospital
+D408,Dr. Dipika Shah,Endocrinology,Amrita Hospital
+D409,Dr. Hemlata Das,Cardiology,Apollo Clinic
+D410,Dr. Nikhil Mehta,Orthopedics,Nair Hospital
+D411,Dr. Archana Tripathi,Anesthesiology,Sassoon Hospital
+D412,Dr. Amit Reddy,Cardiology,Medanta Hospital
+D413,Dr. Lalita Bisht,Neurology,Manipal Hospital
+D414,Dr. Yogesh Murthy,Oncology,NIMHANS Bengaluru
+D415,Dr. Santosh Arora,Pulmonology,Global Hospital
+D416,Dr. Rakesh Rajan,Nephrology,Kokilaben Hospital
+D417,Dr. Manish Arora,Neurology,Apollo Clinic
+D418,Dr. Renuka Mishra,Psychiatry,Yashoda Hospital
+D419,Dr. Sachin Kapoor,Oncology,Ruby Hall Clinic
+D420,Dr. Vivek Dwivedi,Psychiatry,Manipal Hospital
+D421,Dr. Gaurav Goyal,Rheumatology,Rainbow Clinic
+D422,Dr. Kiran Soni,General Medicine,Sunshine Hospital
+D423,Dr. Geeta Shinde,Nephrology,Aakash Healthcare
+D424,Dr. Anita Nair,Cardiology,Aster Hospital
+D425,Dr. Madhavi Mane,Pulmonology,Columbia Asia
+D426,Dr. Trupti Murthy,ENT,Dharamshila Hospital
+D427,Dr. Sarita Srivastava,Urology,Hinduja Hospital
+D428,Dr. Sachin Shukla,ENT,Sunshine Hospital
+D429,Dr. Lata Chopra,Oncology,Rainbow Clinic
+D430,Dr. Vivek Patel,Gynecology,Global Hospital
+D431,Dr. Arun Varma,Pediatrics,AIIMS Delhi
+D432,Dr. Harish Shinde,Ophthalmology,Narayana Health
+D433,Dr. Priya Vyas,Anesthesiology,City Care Hospital
+D434,Dr. Kapil Anand,Dermatology,Sassoon Hospital
+D435,Dr. Sheela Pandey,Dermatology,Max Healthcare
+D436,Dr. Chitra Rawat,Oncology,Osmed Hospital
+D437,Dr. Sneha Shukla,Pediatrics,NIMHANS Bengaluru
+D438,Dr. Neha Pathak,Neurology,Jupiter Hospital
+D439,Dr. Sunil Patel,Pulmonology,SGPGI Lucknow
+D440,Dr. Ajay Kadam,Nephrology,Medanta Hospital
+D441,Dr. Kiran Shah,Nephrology,Narayana Health
+D442,Dr. Ajay Rawat,Orthopedics,Sassoon Hospital
+D443,Dr. Umesh Gupta,Dermatology,Narayana Health
+D444,Dr. Manish Rajan,Pulmonology,Manipal Hospital
+D445,Dr. Sheela Saxena,Orthopedics,Rainbow Clinic
+D446,Dr. Hemant Rao,Oncology,Lilavati Hospital
+D447,Dr. Madhuri Anand,Urology,Aakash Healthcare
+D448,Dr. Prakash Chaudhary,Pulmonology,Ruby Hall Clinic
+D449,Dr. Neha Sharma,Pathology,Global Hospital
+D450,Dr. Pankaj Mehta,General Medicine,Rainbow Clinic
+D451,Dr. Amita Chauhan,Gastroenterology,Rainbow Clinic
+D452,Dr. Dipika Patel,Oncology,Osmed Hospital
+D453,Dr. Bhavna Das,Dermatology,BLK Hospital
+D454,Dr. Harish Raju,Pediatrics,PGI Chandigarh
+D455,Dr. Rohit Anand,Endocrinology,NIMHANS Bengaluru
+D456,Dr. Smita Garg,Psychiatry,Medanta Hospital
+D457,Dr. Rohit Rajan,Orthopedics,Fortis Hospital
+D458,Dr. Vinod Chaudhary,General Medicine,Aster Hospital
+D459,Dr. Rekha Kapoor,Ophthalmology,Apollo Clinic
+D460,Dr. Dipika Rajput,Nephrology,Skin Glow Clinic
+D461,Dr. Swati Tripathi,Cardiology,Breach Candy Hospital
+D462,Dr. Archana Mishra,Rheumatology,BLK Hospital
+D463,Dr. Savita Awasthi,Radiology,Venkateshwar Hospital
+D464,Dr. Shyam Babu,Dermatology,NIMHANS Bengaluru
+D465,Dr. Pallavi Sharma,General Medicine,Columbia Asia
+D466,Dr. Rohit Mane,Oncology,Breach Candy Hospital
+D467,Dr. Sachin Varma,Gynecology,Max Healthcare
+D468,Dr. Girish Babu,Gastroenterology,PGI Chandigarh
+D469,Dr. Bharat Pandey,Pulmonology,SGPGI Lucknow
+D470,Dr. Kapil Nambiar,Cardiology,Breach Candy Hospital
+D471,Dr. Trupti Mane,Oncology,CMC Vellore
+D472,Dr. Manish Soni,Neurology,Max Healthcare
+D473,Dr. Jyoti Reddy,Ophthalmology,Nair Hospital
+D474,Dr. Sudha Banerjee,Dermatology,AIIMS Delhi
+D475,Dr. Komal Jadhav,Ophthalmology,Apollo Clinic
+D476,Dr. Hemant Solanki,Cardiology,Aakash Healthcare
+D477,Dr. Sunita Garg,Urology,SGPGI Lucknow
+D478,Dr. Ravi Shinde,Cardiology,Wockhardt Hospital
+D479,Dr. Amit Mishra,Ophthalmology,Ruby Hall Clinic
+D480,Dr. Vishal Banerjee,Orthopedics,Columbia Asia
+D481,Dr. Saroj Anand,Gastroenterology,Sharda Hospital
+D482,Dr. Deepa Raju,Anesthesiology,Sassoon Hospital
+D483,Dr. Usha Sethi,Psychiatry,CMC Vellore
+D484,Dr. Anita Pathak,Gynecology,Max Healthcare
+D485,Dr. Harish Mehta,Gastroenterology,Dharamshila Hospital
+D486,Dr. Ravi Pillai,Pulmonology,AIIMS Delhi
+D487,Dr. Saroj Krishnan,Anesthesiology,Osmed Hospital
+D488,Dr. Saroj Shah,Endocrinology,Metro Hospital
+D489,Dr. Arjun Goyal,Neurology,Narayana Health
+D490,Dr. Vinod Anand,General Medicine,AIIMS Delhi
+D491,Dr. Manoj Kulkarni,Pediatrics,Wockhardt Hospital
+D492,Dr. Pramod Bhatia,Orthopedics,Aakash Healthcare
+D493,Dr. Kalpana Raju,Gastroenterology,City Care Hospital
+D494,Dr. Vivek Patil,Anesthesiology,Breach Candy Hospital
+D495,Dr. Savita Krishnan,Oncology,Aster Hospital
+D496,Dr. Deepa Babu,Neurology,CMC Vellore
+D497,Dr. Sandeep Prasad,Endocrinology,Venkateshwar Hospital
+D498,Dr. Smita Pandey,Neurology,Sharda Hospital
+D499,Dr. Shyam Sen,Pathology,Ruby Hall Clinic
+D500,Dr. Pradeep Das,Radiology,Venkateshwar Hospital
+D501,Dr. Shyam Bisht,Cardiology,Sahyadri Hospital
+D502,Dr. Kavita Pandey,Psychiatry,Care Hospital
+D503,Dr. Pramod Desai,Gastroenterology,Narayana Health
+D504,Dr. Sheela Nair,Gynecology,Care Hospital
+D505,Dr. Deepa Malhotra,Oncology,JIPMER Puducherry
+D506,Dr. Arjun Sharma,Rheumatology,Fortis Hospital
+D507,Dr. Vinod Krishnan,Gastroenterology,Sassoon Hospital
+D508,Dr. Suresh Dey,Gynecology,Skin Glow Clinic
+D509,Dr. Harish Dey,Pulmonology,Dharamshila Hospital
+D510,Dr. Sunita Das,General Medicine,PGI Chandigarh
+D511,Dr. Sameer Oberoi,Dermatology,Fortis Hospital
+D512,Dr. Lata Bhatt,Ophthalmology,Sharda Hospital
+D513,Dr. Vishal Awasthi,Cardiology,Manipal Hospital
+D514,Dr. Meena Trivedi,Radiology,Jupiter Hospital
+D515,Dr. Madhuri Shukla,Dermatology,Aster Hospital
+D516,Dr. Pradeep Subramaniam,Urology,Venkateshwar Hospital
+D517,Dr. Yogesh Malhotra,Nephrology,JIPMER Puducherry
+D518,Dr. Shyam Dwivedi,ENT,Nair Hospital
+D519,Dr. Nilesh Negi,Orthopedics,Aakash Healthcare
+D520,Dr. Shyam Bose,Psychiatry,Kokilaben Hospital
+D521,Dr. Vandana Iyer,Dermatology,Hinduja Hospital
+D522,Dr. Sandeep Nambiar,General Medicine,Kokilaben Hospital
+D523,Dr. Komal Goyal,Pulmonology,Sassoon Hospital
+D524,Dr. Rajiv Kapoor,Pathology,AIIMS Delhi
+D525,Dr. Vivek Tiwari,Anesthesiology,Sassoon Hospital
+D526,Dr. Jyoti Babu,Psychiatry,Metro Hospital
+D527,Dr. Anita Varma,Radiology,Yashoda Hospital
+D528,Dr. Rohit Shinde,Radiology,Hinduja Hospital
+D529,Dr. Ajay Krishnan,Psychiatry,Medanta Hospital
+D530,Dr. Poonam Dey,Pulmonology,Medanta Hospital
+D531,Dr. Pankaj Singh,Cardiology,Medanta Hospital
+D532,Dr. Sheela Roy,Pathology,Hinduja Hospital
+D533,Dr. Amit Subramaniam,Dermatology,PGI Chandigarh
+D534,Dr. Lalita Pillai,Pathology,Dharamshila Hospital
+D535,Dr. Ravi Bhatt,Neurology,Sahyadri Hospital
+D536,Dr. Rohit Shah,Pediatrics,Aakash Healthcare
+D537,Dr. Divya Yadav,Urology,Sunshine Hospital
+D538,Dr. Sunita Khanna,Psychiatry,BLK Hospital
+D539,Dr. Seema Pillai,Oncology,Sharda Hospital
+D540,Dr. Pallavi Bose,Gastroenterology,Max Healthcare
+D541,Dr. Hemant Pillai,Urology,City Care Hospital
+D542,Dr. Umesh Dey,ENT,Ruby Hall Clinic
+D543,Dr. Usha Dey,Radiology,Columbia Asia
+D544,Dr. Madhuri Chopra,Neurology,SGPGI Lucknow
+D545,Dr. Rupa Khanna,Pathology,Skin Glow Clinic
+D546,Dr. Pankaj Malhotra,Pediatrics,BLK Hospital
+D547,Dr. Arjun Kadam,Dermatology,AIIMS Delhi
+D548,Dr. Rohit Tripathi,Oncology,Medanta Hospital
+D549,Dr. Pramod Babu,Ophthalmology,Aakash Healthcare
+D550,Dr. Ramesh Chaudhary,Orthopedics,BLK Hospital
+D551,Dr. Sudha Patel,Endocrinology,Amrita Hospital
+D552,Dr. Sheela Negi,Neurology,Wockhardt Hospital
+D553,Dr. Alok Chatterjee,Pulmonology,Skin Glow Clinic
+D554,Dr. Amita Soni,Ophthalmology,Sahyadri Hospital
+D555,Dr. Sarita Ghosh,Dermatology,Aakash Healthcare
+D556,Dr. Pooja Solanki,Cardiology,Amrita Hospital
+D557,Dr. Priya Rajan,Dermatology,Lilavati Hospital
+D558,Dr. Varsha Desai,Rheumatology,AIIMS Delhi
+D559,Dr. Ashok Garg,Gynecology,Global Hospital
+D560,Dr. Manish Roy,General Medicine,Manipal Hospital
+D561,Dr. Renuka Gupta,Psychiatry,Columbia Asia
+D562,Dr. Lalita Singh,Psychiatry,Fortis Hospital
+D563,Dr. Saroj Arora,Pathology,Breach Candy Hospital
+D564,Dr. Rakesh Babu,Ophthalmology,Venkateshwar Hospital
+D565,Dr. Kavita Babu,Urology,Manipal Hospital
+D566,Dr. Manoj Pathak,Radiology,SGPGI Lucknow
+D567,Dr. Pramod Malhotra,Rheumatology,AIIMS Delhi
+D568,Dr. Geeta Shukla,ENT,Care Hospital
+D569,Dr. Madhuri Arora,Gynecology,Osmed Hospital
+D570,Dr. Kalpana Pillai,Endocrinology,Ruby Hall Clinic
+D571,Dr. Kapil Singh,Cardiology,Sharda Hospital
+D572,Dr. Ramesh Sharma,Nephrology,Amrita Hospital
+D573,Dr. Vikram Bisht,Orthopedics,KEM Hospital
+D574,Dr. Sunita Chakraborty,Urology,Hinduja Hospital
+D575,Dr. Gaurav Kumar,Psychiatry,Fortis Hospital
+D576,Dr. Madhavi Rao,ENT,NIMHANS Bengaluru
+D577,Dr. Sanjay Joshi,Pathology,Yashoda Hospital
+D578,Dr. Divya Warrier,Ophthalmology,KEM Hospital
+D579,Dr. Vivek Solanki,Nephrology,BLK Hospital
+D580,Dr. Umesh Deshpande,Pediatrics,Fortis Hospital
+D581,Dr. Usha Jadhav,Gynecology,Sahyadri Hospital
+D582,Dr. Meena Patil,Gynecology,Nair Hospital
+D583,Dr. Lalita Mane,Gastroenterology,BLK Hospital
+D584,Dr. Sandeep Kumar,Gynecology,Aster Hospital
+D585,Dr. Anjali Chakraborty,ENT,City Care Hospital
+D586,Dr. Tarun Rajput,Cardiology,KEM Hospital
+D587,Dr. Dhruv Patel,Ophthalmology,Amrita Hospital
+D588,Dr. Mohit Trivedi,Oncology,Hinduja Hospital
+D589,Dr. Sachin Warrier,Anesthesiology,Dharamshila Hospital
+D590,Dr. Swati Upadhyay,Gynecology,Fortis Hospital
+D591,Dr. Poonam Goyal,Oncology,JIPMER Puducherry
+D592,Dr. Pradeep Reddy,Pathology,CMC Vellore
+D593,Dr. Anita Awasthi,Endocrinology,NIMHANS Bengaluru
+D594,Dr. Hemant Menon,Psychiatry,Sunshine Hospital
+D595,Dr. Sheela Garg,Pediatrics,NIMHANS Bengaluru
+D596,Dr. Dinesh Subramaniam,Cardiology,Amrita Hospital
+D597,Dr. Saroj Patil,Cardiology,CMC Vellore
+D598,Dr. Poonam Malhotra,Cardiology,Manipal Hospital
+D599,Dr. Vinod Banerjee,Ophthalmology,Yashoda Hospital
+D600,Dr. Renuka Chatterjee,Anesthesiology,NIMHANS Bengaluru
