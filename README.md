@@ -89,14 +89,3 @@ Import the CSV files from the `data/` folder into their respective tables using 
 
 ### 3. Explore Queries
 Run the analytical queries included in the SQL script to generate reports and insights from the database.
-
----
-
-## 📈 Learning Outcomes
-Through this project, I gained hands-on experience with:
-* Relational database design
-* Data normalization
-* Query optimization
-* Triggers and stored procedures
-* Business reporting with SQL
-* Managing large interconnected datasets
