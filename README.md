@@ -53,7 +53,7 @@ The project includes 17 business-focused SQL queries such as:
 
 ---
 
-## 📂 Dataset
+## Dataset
 The database is populated with realistic sample data:
 
 | Table                | Records |
@@ -69,14 +69,14 @@ The database is populated with realistic sample data:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * MySQL 8.0
 * SQL (DDL, DML, Stored Procedures, Triggers)
 * MySQL Workbench
 
 ---
 
-## ▶️ Getting Started
+##  Getting Started
 
 ### 1. Run the SQL Script
 Open `Pharmacy_Management_System.sql` in MySQL Workbench and run it to create the database and all tables.
