@@ -1,4 +1,4 @@
-#  Pharmacy Management System
+#  Pharmacy Analytics & Management System
 A MySQL-based database project that simulates how a real pharmacy manages doctors, patients, prescriptions, medicines, sales, and inventory.
 The goal of this project was to design a well-structured relational database and implement real-world database features such as triggers, stored procedures, constraints, and analytical reporting.
 
